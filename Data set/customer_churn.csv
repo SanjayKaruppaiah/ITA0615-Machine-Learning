@@ -1,0 +1,2001 @@
+tenure_months,monthly_charges,contract,internet_service,support_calls,late_payments,churn
+53,38.16,Month-to-month,DSL,1,0,No
+9,38.23,One year,DSL,0,1,No
+48,78.52,Month-to-month,Fiber,1,2,No
+65,46.25,Month-to-month,Fiber,2,0,No
+21,68.78,Month-to-month,Fiber,2,0,No
+49,34.28,Two year,No internet,2,1,No
+67,78.42,One year,DSL,3,2,Yes
+68,10.0,Month-to-month,No internet,1,3,No
+47,56.98,One year,DSL,2,0,No
+68,73.64,Month-to-month,Fiber,3,1,Yes
+56,55.75,Two year,DSL,0,2,No
+37,,Month-to-month,Fiber,2,0,No
+10,24.37,Month-to-month,No internet,1,0,No
+62,102.84,Month-to-month,Fiber,0,1,No
+21,99.88,Month-to-month,Fiber,2,1,Yes
+54,97.87,Month-to-month,DSL,2,0,No
+47,54.79,One year,DSL,1,1,No
+26,46.79,Month-to-month,DSL,3,1,No
+56,55.64,Month-to-month,Fiber,2,0,Yes
+48,44.61,One year,DSL,0,0,No
+54,89.29,One year,Fiber,1,2,No
+69,72.37,Two year,DSL,2,2,No
+20,68.51,Month-to-month,DSL,1,1,Yes
+56,61.71,Two year,Fiber,2,0,No
+3,61.82,One year,Fiber,0,2,No
+52,114.13,One year,Fiber,0,1,No
+12,58.36,Month-to-month,Fiber,1,2,No
+16,83.33,Month-to-month,DSL,0,0,No
+15,83.09,Month-to-month,Fiber,3,1,Yes
+60,60.35,One year,Fiber,0,1,No
+27,31.31,One year,DSL,0,0,No
+29,41.22,Month-to-month,DSL,2,0,Yes
+27,33.35,Month-to-month,No internet,3,2,Yes
+45,10.0,Two year,No internet,1,0,No
+66,86.09,Month-to-month,DSL,0,1,No
+49,70.84,One year,Fiber,2,0,No
+8,69.01,Two year,DSL,2,0,No
+38,67.39,Month-to-month,DSL,2,1,No
+8,87.44,One year,DSL,1,0,No
+12,16.24,One year,No internet,1,1,No
+15,57.12,Month-to-month,DSL,0,0,No
+51,46.97,Month-to-month,Fiber,1,1,Yes
+64,57.06,Two year,DSL,1,0,No
+18,97.8,Month-to-month,Fiber,2,0,No
+68,29.39,Month-to-month,No internet,1,2,No
+20,121.25,Month-to-month,Fiber,3,0,Yes
+23,65.39,One year,DSL,2,0,No
+10,44.19,Month-to-month,DSL,1,1,No
+4,84.12,Month-to-month,Fiber,3,0,No
+45,25.73,Month-to-month,DSL,1,1,No
+30,59.02,Month-to-month,Fiber,1,0,No
+9,50.66,One year,Fiber,1,0,No
+41,75.32,Two year,Fiber,0,0,No
+25,53.79,Month-to-month,DSL,4,1,Yes
+29,49.1,One year,No internet,3,1,No
+65,73.02,One year,Fiber,5,0,No
+30,34.95,One year,DSL,0,0,No
+33,56.19,One year,No internet,2,1,No
+50,16.11,Month-to-month,Fiber,1,0,No
+65,25.77,One year,No internet,1,2,No
+54,79.35,One year,Fiber,0,1,No
+36,54.79,One year,DSL,1,2,No
+23,65.0,Month-to-month,DSL,5,1,No
+13,27.21,Month-to-month,No internet,0,0,No
+9,84.99,Month-to-month,Fiber,1,1,No
+55,62.96,Month-to-month,Fiber,0,0,No
+54,25.82,Month-to-month,DSL,0,0,No
+26,54.07,Month-to-month,DSL,1,0,No
+68,34.47,Month-to-month,DSL,2,0,No
+70,40.43,Month-to-month,DSL,0,0,No
+45,78.23,Two year,DSL,1,0,No
+19,106.16,Month-to-month,Fiber,2,3,Yes
+37,97.85,Month-to-month,Fiber,2,0,No
+60,94.15,One year,Fiber,0,1,Yes
+37,76.2,Month-to-month,Fiber,1,1,No
+36,75.31,Month-to-month,DSL,1,1,No
+39,82.11,Month-to-month,Fiber,0,0,No
+61,93.95,Month-to-month,DSL,2,1,No
+30,56.64,One year,Fiber,3,0,No
+14,38.45,Month-to-month,No internet,1,2,No
+37,49.71,Month-to-month,Fiber,1,0,Yes
+46,88.57,Month-to-month,Fiber,0,0,No
+68,20.62,Month-to-month,DSL,2,2,Yes
+9,50.73,One year,Fiber,0,1,No
+68,29.35,Month-to-month,DSL,0,1,No
+58,80.04,Month-to-month,Fiber,1,2,Yes
+52,62.09,Month-to-month,DSL,1,0,No
+17,124.01,One year,Fiber,2,0,No
+15,73.17,Month-to-month,Fiber,3,0,No
+31,70.45,Two year,DSL,1,0,No
+14,58.22,Month-to-month,DSL,3,0,No
+48,68.78,Two year,DSL,1,1,No
+55,77.87,Month-to-month,Fiber,2,1,No
+35,76.99,One year,DSL,3,0,No
+50,53.95,Month-to-month,Fiber,2,0,Yes
+57,10.0,Month-to-month,DSL,0,1,No
+66,33.35,One year,No internet,1,0,No
+50,38.9,Two year,Fiber,1,0,No
+17,101.23,One year,Fiber,2,0,No
+10,44.04,Month-to-month,DSL,4,2,Yes
+68,10.0,Month-to-month,No internet,2,0,No
+56,109.01,Month-to-month,DSL,2,0,No
+62,54.63,One year,DSL,2,1,No
+31,50.8,Month-to-month,DSL,1,1,No
+12,89.96,Month-to-month,Fiber,0,0,No
+44,41.31,Month-to-month,No internet,1,1,No
+47,77.78,Two year,DSL,1,1,No
+16,10.0,Month-to-month,No internet,2,2,No
+34,35.72,Month-to-month,No internet,0,2,Yes
+31,,Month-to-month,No internet,0,1,No
+19,56.58,Month-to-month,Fiber,0,1,Yes
+59,25.96,Month-to-month,No internet,2,1,Yes
+35,38.78,One year,Fiber,3,1,No
+67,93.46,Month-to-month,Fiber,2,2,No
+1,69.19,Month-to-month,Fiber,1,2,No
+68,65.45,Month-to-month,Fiber,0,0,Yes
+48,72.25,Month-to-month,Fiber,2,1,No
+51,51.65,One year,DSL,3,1,No
+21,97.81,Month-to-month,Fiber,1,2,No
+6,53.09,One year,Fiber,0,1,No
+17,67.36,Month-to-month,Fiber,0,1,No
+32,50.67,Month-to-month,DSL,1,0,No
+25,33.7,Month-to-month,DSL,0,1,No
+14,58.19,Month-to-month,DSL,0,1,No
+1,40.52,Month-to-month,DSL,2,3,Yes
+51,26.91,Month-to-month,DSL,0,3,No
+49,85.52,Two year,Fiber,2,2,No
+12,85.95,Month-to-month,DSL,1,1,Yes
+57,55.97,Month-to-month,DSL,3,2,No
+71,72.93,Month-to-month,Fiber,2,0,No
+72,,Month-to-month,No internet,2,1,No
+15,64.68,Month-to-month,Fiber,1,1,Yes
+31,48.4,One year,No internet,1,1,No
+4,,One year,Fiber,2,0,Yes
+1,11.43,One year,DSL,1,1,No
+61,98.98,Month-to-month,Fiber,0,3,No
+70,44.08,Month-to-month,No internet,0,1,No
+15,67.03,One year,DSL,1,1,No
+34,19.89,Month-to-month,Fiber,1,2,No
+2,74.94,One year,Fiber,3,0,No
+59,72.87,One year,DSL,1,2,No
+40,82.59,Month-to-month,Fiber,2,1,No
+22,79.1,Month-to-month,Fiber,1,2,No
+70,42.91,One year,No internet,1,0,No
+10,57.79,Month-to-month,DSL,1,2,No
+20,,Month-to-month,Fiber,0,1,No
+54,58.24,Month-to-month,DSL,3,2,No
+30,76.64,Month-to-month,Fiber,1,0,No
+51,72.85,One year,DSL,4,2,No
+18,67.03,Month-to-month,Fiber,3,1,Yes
+48,53.06,Two year,Fiber,2,0,No
+41,75.08,Two year,Fiber,0,2,No
+4,36.81,Two year,No internet,3,1,No
+24,93.51,Month-to-month,Fiber,0,0,Yes
+22,73.62,Month-to-month,DSL,0,1,No
+43,53.63,Two year,DSL,0,0,No
+32,51.57,One year,DSL,4,1,No
+35,63.16,Month-to-month,Fiber,2,0,Yes
+13,30.0,Two year,No internet,1,1,No
+67,10.0,One year,No internet,0,0,No
+54,75.46,One year,Fiber,1,3,No
+49,130.0,Two year,Fiber,1,1,No
+20,10.0,Two year,No internet,1,0,No
+50,78.14,Month-to-month,Fiber,3,0,Yes
+17,62.56,Month-to-month,DSL,0,1,No
+36,65.13,One year,DSL,1,1,No
+20,55.67,One year,Fiber,1,0,No
+22,85.31,One year,Fiber,2,2,No
+47,64.31,Month-to-month,Fiber,2,2,No
+23,26.45,One year,DSL,2,2,No
+53,74.04,Month-to-month,DSL,3,2,No
+37,68.29,Two year,DSL,1,0,No
+71,35.67,Two year,DSL,1,2,No
+14,44.12,Month-to-month,DSL,4,2,No
+69,63.4,One year,Fiber,0,0,No
+10,42.13,One year,Fiber,1,2,No
+40,90.25,Month-to-month,Fiber,0,0,No
+27,91.0,Month-to-month,Fiber,2,0,Yes
+55,68.35,One year,Fiber,0,1,No
+10,24.44,One year,No internet,1,1,No
+19,77.29,Month-to-month,Fiber,2,3,Yes
+17,79.89,Two year,Fiber,1,1,No
+67,28.05,Two year,DSL,1,0,No
+39,64.77,Two year,DSL,2,3,No
+12,31.49,Two year,DSL,1,1,No
+57,88.63,Month-to-month,Fiber,1,1,No
+21,53.7,Two year,Fiber,2,2,No
+17,49.0,Two year,Fiber,2,2,No
+36,74.44,One year,Fiber,3,1,No
+57,73.99,Month-to-month,Fiber,1,0,No
+61,57.07,Month-to-month,DSL,0,0,No
+2,10.0,Month-to-month,No internet,1,1,Yes
+65,79.06,One year,Fiber,0,1,No
+72,80.94,Month-to-month,Fiber,0,1,No
+24,48.31,One year,No internet,2,1,No
+38,58.7,One year,DSL,0,1,No
+28,43.01,Month-to-month,DSL,1,0,Yes
+35,10.0,Month-to-month,No internet,0,1,No
+47,24.39,One year,DSL,1,0,No
+47,61.46,Month-to-month,DSL,3,0,No
+35,90.86,Two year,Fiber,1,0,No
+35,10.0,Two year,No internet,1,1,No
+36,60.11,Month-to-month,DSL,2,0,No
+30,71.52,One year,Fiber,3,1,No
+9,69.37,Two year,DSL,1,0,No
+27,92.32,Two year,Fiber,0,0,No
+52,10.0,One year,DSL,4,2,No
+71,95.64,Two year,Fiber,1,1,No
+59,60.04,Month-to-month,DSL,2,2,Yes
+63,44.37,Month-to-month,DSL,1,1,No
+57,44.93,One year,DSL,1,1,No
+37,55.63,One year,DSL,3,0,No
+50,64.93,Two year,Fiber,2,0,No
+61,56.26,Month-to-month,Fiber,1,0,No
+17,40.84,Month-to-month,DSL,0,0,No
+11,34.2,One year,DSL,1,1,No
+20,51.93,Two year,No internet,2,1,No
+39,76.12,One year,Fiber,5,1,No
+57,100.06,Month-to-month,DSL,1,0,No
+33,32.42,Two year,No internet,1,1,No
+71,66.78,One year,DSL,1,0,No
+24,53.77,Two year,Fiber,2,2,No
+34,70.64,Two year,Fiber,1,1,No
+67,26.45,Month-to-month,No internet,1,1,No
+13,62.26,Two year,Fiber,1,1,No
+60,65.7,Month-to-month,Fiber,1,1,Yes
+11,63.4,Two year,DSL,2,0,No
+66,83.8,Month-to-month,Fiber,0,2,No
+24,28.26,One year,DSL,0,0,No
+46,30.67,Month-to-month,No internet,1,2,No
+52,36.06,Month-to-month,No internet,3,1,No
+28,43.19,Two year,DSL,3,1,No
+40,11.16,Month-to-month,No internet,5,1,No
+55,63.83,Month-to-month,DSL,0,0,No
+64,10.0,Two year,No internet,1,0,No
+8,25.04,Month-to-month,No internet,2,0,Yes
+36,57.69,One year,No internet,2,1,No
+62,23.07,Two year,Fiber,1,0,No
+41,91.46,Month-to-month,Fiber,0,1,No
+3,85.89,Month-to-month,Fiber,4,1,Yes
+10,26.24,One year,DSL,0,2,No
+59,35.41,One year,No internet,0,1,No
+31,45.03,Month-to-month,No internet,3,0,No
+51,10.0,Month-to-month,No internet,1,0,No
+65,40.86,Month-to-month,DSL,1,1,No
+7,55.52,Month-to-month,DSL,1,0,Yes
+33,74.55,Month-to-month,DSL,0,1,No
+11,44.18,Two year,DSL,1,1,No
+61,74.16,Month-to-month,Fiber,1,0,No
+33,41.7,Month-to-month,DSL,1,1,No
+64,55.49,Two year,DSL,0,1,No
+22,95.93,Month-to-month,Fiber,3,3,Yes
+11,57.12,Two year,DSL,2,0,No
+63,47.85,Two year,DSL,1,1,No
+45,54.34,Month-to-month,DSL,0,1,Yes
+14,38.99,Month-to-month,DSL,0,1,Yes
+50,55.11,Month-to-month,Fiber,1,2,No
+31,79.07,Month-to-month,DSL,0,1,No
+4,107.75,Month-to-month,Fiber,0,2,No
+19,39.17,Month-to-month,Fiber,1,0,No
+55,66.64,Month-to-month,DSL,1,1,No
+10,72.18,Two year,DSL,4,3,No
+25,10.0,Month-to-month,No internet,4,0,Yes
+19,65.56,Month-to-month,Fiber,1,0,Yes
+53,43.46,Month-to-month,DSL,3,0,No
+62,63.02,Month-to-month,No internet,2,0,No
+57,,One year,No internet,0,0,No
+52,56.58,One year,Fiber,0,1,No
+7,45.82,Month-to-month,Fiber,1,1,No
+66,70.46,One year,DSL,0,0,No
+12,35.88,Month-to-month,No internet,0,0,No
+30,99.88,Two year,Fiber,0,0,No
+60,33.82,Month-to-month,DSL,2,2,No
+18,39.47,One year,No internet,2,1,No
+16,40.36,Month-to-month,DSL,1,0,Yes
+2,67.46,Month-to-month,DSL,0,0,No
+26,24.26,Month-to-month,No internet,0,0,Yes
+36,113.01,Month-to-month,Fiber,2,2,Yes
+34,83.95,One year,Fiber,0,0,No
+3,68.72,One year,Fiber,1,0,No
+15,57.76,Month-to-month,DSL,1,0,Yes
+1,72.99,Two year,Fiber,0,0,No
+17,51.91,Month-to-month,Fiber,1,1,No
+44,113.5,Two year,Fiber,1,0,No
+1,86.97,Month-to-month,DSL,2,1,Yes
+12,51.47,Month-to-month,DSL,0,2,No
+40,69.0,Month-to-month,DSL,2,3,No
+41,96.03,One year,DSL,0,1,No
+65,49.74,One year,No internet,1,0,No
+42,48.85,One year,DSL,0,0,No
+67,53.24,Month-to-month,DSL,1,1,No
+53,40.65,Month-to-month,Fiber,1,2,No
+40,90.5,One year,Fiber,0,1,No
+28,99.86,Two year,Fiber,2,2,No
+9,79.99,Month-to-month,DSL,2,4,Yes
+51,39.02,Two year,No internet,3,1,No
+68,82.05,One year,Fiber,0,0,No
+27,55.04,Month-to-month,Fiber,0,1,No
+26,61.39,One year,DSL,1,2,No
+8,12.37,Month-to-month,No internet,3,3,Yes
+44,65.5,Month-to-month,DSL,1,0,No
+23,59.72,One year,Fiber,1,0,No
+1,65.38,Two year,DSL,0,2,Yes
+1,101.46,Month-to-month,Fiber,1,0,No
+25,62.54,Month-to-month,DSL,0,2,Yes
+34,61.57,Month-to-month,DSL,2,0,No
+33,73.26,Month-to-month,DSL,2,1,No
+54,110.41,One year,Fiber,2,1,No
+39,22.85,Month-to-month,No internet,2,0,Yes
+57,85.42,Month-to-month,Fiber,3,0,No
+22,105.22,One year,Fiber,3,0,No
+17,68.39,Month-to-month,DSL,0,0,No
+39,14.95,Month-to-month,DSL,1,0,No
+8,40.69,One year,DSL,1,1,Yes
+56,90.02,Month-to-month,Fiber,2,1,No
+14,67.0,Month-to-month,Fiber,0,0,No
+66,103.81,Month-to-month,Fiber,1,0,No
+71,92.16,Month-to-month,DSL,2,0,No
+39,63.2,Two year,Fiber,2,1,No
+23,10.0,One year,No internet,2,2,No
+25,47.78,Month-to-month,DSL,2,1,No
+31,46.62,Month-to-month,DSL,0,0,No
+35,55.72,Month-to-month,No internet,1,0,No
+6,34.29,Two year,DSL,3,2,No
+15,69.85,One year,DSL,2,0,No
+57,,One year,No internet,2,3,No
+4,91.38,Month-to-month,Fiber,0,0,No
+33,83.73,Two year,Fiber,2,1,No
+64,51.76,Two year,DSL,1,1,No
+7,111.98,Month-to-month,Fiber,1,1,Yes
+67,50.09,Month-to-month,DSL,2,0,No
+35,43.97,Month-to-month,No internet,0,0,No
+31,51.83,One year,DSL,4,0,No
+52,38.17,Month-to-month,Fiber,2,2,No
+56,69.61,Month-to-month,Fiber,2,0,No
+35,71.87,One year,Fiber,1,3,No
+6,72.13,One year,Fiber,1,0,No
+70,41.79,Month-to-month,DSL,0,2,No
+1,67.52,Month-to-month,DSL,2,2,Yes
+63,69.74,Month-to-month,DSL,2,2,No
+32,48.88,Month-to-month,DSL,1,0,No
+38,68.72,Two year,Fiber,2,1,No
+56,53.99,One year,Fiber,2,0,No
+68,60.09,Two year,DSL,2,1,No
+11,102.56,One year,Fiber,0,0,No
+59,102.57,One year,Fiber,1,1,No
+48,43.02,Month-to-month,DSL,1,1,No
+27,114.82,Month-to-month,Fiber,1,0,No
+31,67.76,Two year,Fiber,0,0,No
+56,34.68,One year,DSL,1,1,No
+11,47.76,Two year,Fiber,1,0,No
+37,33.47,One year,DSL,1,0,No
+52,81.67,Month-to-month,Fiber,1,1,Yes
+39,19.85,Month-to-month,No internet,2,0,No
+33,42.36,Month-to-month,DSL,0,2,No
+38,58.05,One year,Fiber,1,1,No
+37,53.28,Two year,Fiber,2,0,No
+58,10.0,Two year,No internet,0,0,No
+60,75.31,Month-to-month,DSL,1,2,No
+67,91.07,Month-to-month,DSL,2,1,No
+6,62.3,Month-to-month,No internet,0,1,No
+24,88.74,Month-to-month,Fiber,1,1,No
+64,45.15,Two year,DSL,0,0,No
+47,41.64,One year,DSL,2,0,No
+28,70.12,Month-to-month,DSL,1,4,Yes
+46,70.07,Two year,Fiber,0,0,No
+34,33.24,Month-to-month,No internet,1,0,No
+64,93.61,Two year,DSL,0,0,No
+41,29.34,One year,No internet,2,1,No
+33,120.56,Month-to-month,Fiber,1,2,No
+45,32.46,One year,DSL,2,2,No
+14,83.95,Month-to-month,Fiber,1,0,No
+56,31.27,One year,No internet,1,0,No
+15,55.32,Month-to-month,Fiber,1,1,No
+2,71.03,Month-to-month,DSL,0,0,No
+4,105.62,One year,Fiber,0,1,No
+5,119.05,Month-to-month,Fiber,1,1,No
+8,83.23,Month-to-month,Fiber,3,1,No
+4,17.0,Two year,DSL,1,2,No
+22,84.54,Month-to-month,Fiber,2,0,Yes
+70,69.84,One year,DSL,1,3,No
+8,50.3,One year,DSL,1,0,No
+49,29.3,Month-to-month,No internet,1,0,No
+63,45.33,Two year,DSL,0,1,No
+59,52.33,Month-to-month,DSL,0,0,No
+27,75.35,Month-to-month,DSL,2,2,Yes
+4,102.78,Month-to-month,Fiber,1,2,Yes
+27,29.59,One year,DSL,3,2,No
+44,14.77,Month-to-month,No internet,1,0,No
+55,43.23,Month-to-month,Fiber,0,0,No
+11,111.77,Month-to-month,Fiber,1,0,Yes
+22,72.42,One year,DSL,1,0,No
+44,14.98,Month-to-month,DSL,0,0,No
+52,73.71,Month-to-month,Fiber,1,1,No
+23,19.33,Month-to-month,No internet,2,2,No
+60,59.88,Month-to-month,Fiber,0,2,No
+58,75.73,One year,DSL,1,3,No
+26,,Month-to-month,No internet,0,0,No
+39,80.39,Month-to-month,Fiber,1,1,No
+35,42.17,Month-to-month,DSL,2,2,No
+49,12.34,One year,No internet,0,1,No
+24,75.88,One year,Fiber,0,1,No
+24,65.86,Month-to-month,Fiber,0,1,No
+31,24.88,One year,No internet,1,2,No
+16,66.16,One year,DSL,0,0,No
+42,10.0,Month-to-month,No internet,1,2,No
+69,10.0,Month-to-month,No internet,1,1,No
+26,54.33,Month-to-month,DSL,2,1,No
+62,86.31,Two year,DSL,1,0,No
+34,71.91,Month-to-month,DSL,1,0,No
+12,74.93,Month-to-month,Fiber,1,1,No
+36,63.05,Month-to-month,DSL,2,2,No
+36,52.97,Month-to-month,DSL,1,2,No
+2,46.54,Two year,No internet,0,0,No
+35,33.68,Month-to-month,No internet,0,3,No
+12,50.58,Month-to-month,No internet,3,0,No
+58,47.89,One year,Fiber,2,2,No
+39,38.88,One year,DSL,1,1,No
+22,80.49,Two year,Fiber,1,1,Yes
+1,64.87,One year,DSL,0,1,No
+42,73.01,Month-to-month,No internet,4,0,Yes
+51,10.0,Month-to-month,No internet,1,1,No
+31,24.34,Two year,No internet,2,0,No
+66,73.44,One year,Fiber,3,1,Yes
+15,59.76,Month-to-month,DSL,0,0,No
+55,109.67,Month-to-month,Fiber,2,1,No
+36,72.53,One year,DSL,0,0,No
+23,42.92,Month-to-month,Fiber,0,0,No
+21,85.68,One year,DSL,2,2,No
+33,85.12,One year,DSL,0,1,No
+6,60.26,Month-to-month,DSL,3,0,Yes
+47,10.0,Two year,No internet,4,0,No
+30,71.97,Two year,Fiber,0,2,No
+49,64.37,Month-to-month,DSL,2,0,Yes
+38,74.93,Month-to-month,DSL,3,3,No
+71,10.0,Two year,No internet,1,0,No
+6,59.62,Month-to-month,Fiber,0,1,No
+36,76.96,Two year,DSL,1,1,No
+39,105.04,Month-to-month,Fiber,0,1,No
+18,83.61,One year,Fiber,1,1,No
+49,97.97,One year,Fiber,1,1,No
+27,64.11,Month-to-month,DSL,1,1,No
+55,94.26,One year,Fiber,1,0,No
+67,57.9,Month-to-month,DSL,1,1,No
+62,84.6,Month-to-month,Fiber,0,1,No
+46,50.56,Month-to-month,Fiber,2,3,No
+52,69.44,Month-to-month,DSL,0,1,No
+63,49.95,Month-to-month,Fiber,1,0,No
+71,89.42,Month-to-month,Fiber,1,1,No
+53,66.22,Month-to-month,Fiber,2,0,No
+66,82.4,Month-to-month,Fiber,2,1,No
+70,35.94,Month-to-month,DSL,1,0,No
+13,44.93,Two year,DSL,2,1,No
+37,62.36,Month-to-month,DSL,2,1,No
+26,90.09,One year,Fiber,0,2,No
+69,96.88,Month-to-month,Fiber,2,1,No
+54,32.0,Month-to-month,DSL,1,2,No
+64,44.98,Month-to-month,Fiber,2,1,No
+26,55.49,Month-to-month,Fiber,2,1,Yes
+61,53.69,Month-to-month,Fiber,1,0,No
+6,86.34,One year,DSL,1,2,No
+68,81.8,Month-to-month,DSL,1,1,No
+17,55.07,Month-to-month,Fiber,0,4,No
+38,109.21,Two year,Fiber,0,0,No
+52,80.61,Month-to-month,DSL,0,1,Yes
+54,42.41,One year,Fiber,1,1,No
+16,34.4,One year,DSL,0,2,No
+40,21.81,Month-to-month,DSL,4,1,Yes
+39,73.27,Month-to-month,Fiber,1,0,No
+56,75.35,Month-to-month,Fiber,2,0,No
+24,55.31,One year,DSL,0,0,No
+55,14.47,Two year,DSL,4,0,No
+45,26.46,Month-to-month,DSL,1,0,No
+55,80.2,Two year,Fiber,2,0,No
+64,,Month-to-month,Fiber,2,0,No
+31,14.6,Month-to-month,DSL,0,1,No
+32,49.38,Month-to-month,Fiber,3,0,Yes
+58,95.45,Two year,Fiber,1,0,No
+57,50.51,Month-to-month,Fiber,2,0,No
+64,54.71,One year,DSL,1,0,Yes
+40,48.61,Month-to-month,Fiber,1,0,No
+46,71.63,Two year,DSL,2,1,No
+5,14.66,Two year,DSL,0,3,No
+33,18.91,One year,No internet,0,0,No
+18,73.81,One year,DSL,4,1,Yes
+62,67.2,Month-to-month,DSL,0,1,No
+9,65.72,Two year,Fiber,0,4,No
+57,41.03,One year,DSL,1,0,No
+61,50.34,Month-to-month,DSL,1,0,No
+34,10.0,Two year,No internet,1,0,No
+49,23.0,One year,No internet,0,2,No
+42,73.34,One year,Fiber,0,0,No
+50,16.64,One year,No internet,1,2,No
+50,75.01,Month-to-month,DSL,1,0,No
+19,33.59,Month-to-month,DSL,1,0,No
+50,20.91,Month-to-month,DSL,1,0,Yes
+65,64.49,Two year,Fiber,3,0,No
+23,57.48,One year,DSL,5,0,No
+23,72.87,Two year,Fiber,1,0,No
+22,51.98,Month-to-month,DSL,1,1,No
+66,52.47,Two year,Fiber,1,0,No
+64,55.35,Month-to-month,Fiber,0,1,Yes
+26,45.23,Month-to-month,DSL,1,1,No
+68,43.66,Two year,DSL,1,1,No
+55,46.96,One year,No internet,3,0,No
+29,60.28,Two year,DSL,1,1,No
+60,44.35,One year,DSL,2,2,No
+66,46.9,Month-to-month,No internet,2,0,No
+63,63.93,Month-to-month,DSL,2,2,No
+34,27.85,Two year,DSL,1,2,No
+16,10.0,Month-to-month,No internet,2,1,No
+13,28.48,One year,DSL,2,2,No
+60,66.9,Month-to-month,DSL,3,0,Yes
+53,72.83,Month-to-month,DSL,0,1,No
+52,21.8,Two year,DSL,2,0,No
+4,68.17,Two year,DSL,1,0,No
+70,67.41,Month-to-month,DSL,0,0,No
+9,82.9,Month-to-month,DSL,0,1,No
+42,94.01,Month-to-month,Fiber,0,2,No
+68,102.04,Month-to-month,Fiber,1,0,No
+18,64.77,Two year,DSL,0,1,No
+38,84.1,Month-to-month,Fiber,2,1,No
+61,68.25,Month-to-month,Fiber,0,1,No
+20,91.41,One year,Fiber,2,6,Yes
+8,48.35,One year,Fiber,0,1,No
+35,52.23,Month-to-month,DSL,5,0,No
+58,65.8,Two year,DSL,2,0,No
+42,83.16,Month-to-month,DSL,0,1,No
+32,65.44,Month-to-month,Fiber,0,1,No
+47,94.33,Two year,Fiber,4,1,No
+4,71.06,Month-to-month,Fiber,1,1,No
+26,94.74,Two year,Fiber,0,2,No
+64,58.97,One year,Fiber,5,0,No
+28,69.52,Two year,DSL,0,1,No
+70,73.09,Month-to-month,Fiber,2,2,No
+40,31.3,Month-to-month,DSL,0,1,No
+68,51.93,Two year,DSL,2,1,No
+46,101.43,Two year,Fiber,1,1,No
+31,34.62,Two year,DSL,2,1,No
+67,25.31,Month-to-month,DSL,2,3,No
+20,82.97,One year,Fiber,3,0,No
+29,21.44,Month-to-month,DSL,1,1,No
+53,86.27,Month-to-month,DSL,0,1,No
+63,85.76,Month-to-month,DSL,2,1,No
+14,45.77,One year,No internet,3,0,No
+72,74.78,Month-to-month,Fiber,1,0,No
+32,108.29,Month-to-month,Fiber,1,1,No
+25,51.91,Two year,No internet,1,3,No
+10,44.35,Two year,DSL,0,1,No
+2,,Month-to-month,No internet,0,1,Yes
+41,36.77,Two year,DSL,0,0,No
+44,51.06,Two year,DSL,1,0,No
+7,19.13,Month-to-month,DSL,0,1,No
+66,77.92,One year,Fiber,5,0,No
+40,69.11,Two year,Fiber,0,1,No
+4,65.96,One year,Fiber,0,0,No
+61,71.69,Month-to-month,Fiber,3,3,No
+15,43.41,One year,DSL,0,2,No
+49,55.83,One year,DSL,0,0,No
+49,50.67,One year,No internet,1,0,No
+59,53.76,Month-to-month,Fiber,3,0,No
+59,72.25,Month-to-month,DSL,0,2,No
+71,79.3,Two year,Fiber,1,0,No
+7,62.48,Month-to-month,DSL,2,1,No
+27,74.39,Two year,Fiber,0,1,No
+27,40.65,Month-to-month,DSL,1,1,Yes
+28,63.9,Two year,DSL,1,0,No
+18,85.38,Month-to-month,Fiber,0,1,No
+17,,Two year,DSL,2,0,No
+70,48.23,Two year,Fiber,2,1,No
+65,76.71,Month-to-month,Fiber,0,1,No
+50,40.09,Month-to-month,No internet,0,0,No
+40,95.1,Two year,Fiber,0,2,No
+35,99.07,One year,Fiber,2,2,Yes
+50,32.43,One year,No internet,1,0,No
+63,69.74,Month-to-month,Fiber,1,0,No
+31,74.96,Two year,Fiber,1,1,No
+39,30.14,One year,DSL,0,0,No
+66,41.35,Month-to-month,DSL,2,2,No
+66,53.94,Month-to-month,DSL,2,0,No
+17,49.67,Month-to-month,DSL,3,2,No
+18,26.84,Two year,No internet,1,0,No
+15,47.5,Two year,Fiber,0,2,No
+2,31.97,Month-to-month,DSL,2,3,Yes
+51,40.51,Month-to-month,No internet,4,0,Yes
+31,58.33,Month-to-month,Fiber,1,1,No
+3,,Month-to-month,No internet,2,0,No
+15,26.9,Two year,No internet,3,1,No
+39,10.0,One year,No internet,0,0,No
+61,97.13,Month-to-month,Fiber,2,0,No
+48,29.86,Month-to-month,DSL,2,1,No
+39,55.03,Month-to-month,DSL,4,1,No
+14,60.03,One year,Fiber,1,0,Yes
+21,58.12,Month-to-month,DSL,1,2,No
+57,65.05,Month-to-month,Fiber,1,1,No
+56,74.53,Two year,Fiber,2,0,No
+63,49.43,One year,No internet,2,1,No
+38,11.25,Two year,No internet,1,0,No
+20,61.08,Month-to-month,Fiber,2,0,No
+37,68.68,Month-to-month,Fiber,0,2,No
+65,84.48,Two year,DSL,1,2,No
+14,73.21,Two year,Fiber,0,0,No
+61,79.68,One year,DSL,1,1,No
+72,51.46,One year,DSL,1,0,No
+60,,Month-to-month,Fiber,1,1,Yes
+48,63.15,One year,DSL,1,0,No
+30,86.09,Month-to-month,Fiber,1,2,No
+62,46.28,Month-to-month,Fiber,1,0,No
+12,23.32,Month-to-month,DSL,2,2,No
+55,96.4,Month-to-month,Fiber,1,0,No
+29,96.16,Month-to-month,Fiber,3,1,Yes
+37,103.43,Month-to-month,DSL,1,1,Yes
+34,45.28,Month-to-month,Fiber,1,0,No
+1,64.72,Two year,DSL,0,1,No
+72,34.52,Two year,DSL,0,1,No
+49,60.19,Month-to-month,Fiber,0,2,No
+44,64.96,Month-to-month,Fiber,1,1,Yes
+8,82.65,Two year,Fiber,0,2,No
+57,41.72,Month-to-month,DSL,0,0,No
+70,75.67,One year,Fiber,0,1,No
+59,41.64,Month-to-month,No internet,1,0,No
+18,97.56,One year,Fiber,0,1,No
+14,68.85,Month-to-month,DSL,0,0,No
+27,64.04,One year,DSL,3,1,Yes
+2,52.17,Month-to-month,DSL,2,3,Yes
+40,43.62,Month-to-month,DSL,1,0,No
+33,85.78,Month-to-month,Fiber,0,2,No
+37,53.98,Month-to-month,Fiber,2,0,No
+72,77.38,Two year,Fiber,1,0,No
+48,53.49,Month-to-month,Fiber,3,1,No
+31,54.17,Month-to-month,DSL,0,0,Yes
+57,33.93,One year,DSL,1,2,No
+27,46.99,Month-to-month,DSL,2,3,No
+55,11.48,Two year,No internet,1,0,No
+68,39.07,Two year,DSL,0,0,No
+66,73.25,Month-to-month,Fiber,4,0,No
+38,26.52,One year,Fiber,3,1,No
+34,18.95,One year,DSL,2,2,No
+29,91.07,Month-to-month,Fiber,2,1,Yes
+39,77.95,One year,Fiber,0,0,No
+68,40.53,Month-to-month,DSL,1,2,No
+63,74.48,Month-to-month,DSL,2,0,No
+44,62.22,One year,Fiber,1,1,No
+21,63.41,One year,Fiber,3,1,No
+28,59.33,One year,Fiber,1,1,No
+18,113.13,Month-to-month,Fiber,1,1,No
+14,79.7,One year,Fiber,1,0,No
+1,58.91,Month-to-month,DSL,2,0,Yes
+56,64.33,One year,DSL,0,0,No
+54,37.95,Month-to-month,Fiber,3,0,No
+13,13.12,Month-to-month,No internet,1,1,No
+50,64.1,Month-to-month,DSL,1,0,No
+12,74.92,Month-to-month,Fiber,2,2,No
+20,99.11,Month-to-month,DSL,1,3,No
+19,44.3,Month-to-month,DSL,0,1,Yes
+10,73.86,Month-to-month,DSL,3,2,Yes
+53,91.12,Month-to-month,Fiber,0,0,No
+4,57.86,Month-to-month,DSL,1,0,Yes
+30,81.49,One year,Fiber,3,2,No
+36,69.2,Two year,Fiber,2,2,No
+42,15.54,Two year,DSL,1,1,No
+14,61.98,Two year,DSL,1,0,No
+34,63.57,Two year,DSL,1,1,No
+58,86.71,Month-to-month,Fiber,4,1,Yes
+27,76.26,Month-to-month,Fiber,0,2,No
+69,44.41,Month-to-month,No internet,3,2,No
+31,37.68,Month-to-month,DSL,0,0,No
+56,84.37,Two year,DSL,0,2,No
+9,55.24,Two year,Fiber,1,0,No
+62,22.84,One year,No internet,2,0,No
+35,88.62,Two year,Fiber,1,0,No
+72,64.7,One year,Fiber,0,0,No
+51,69.98,Month-to-month,DSL,0,1,No
+54,68.14,Month-to-month,Fiber,0,1,No
+11,57.36,Two year,DSL,1,1,Yes
+41,51.38,One year,DSL,2,0,No
+54,13.46,Month-to-month,No internet,2,2,No
+59,120.02,Month-to-month,Fiber,2,0,No
+28,58.21,One year,Fiber,2,0,No
+41,10.0,Two year,DSL,1,1,No
+13,38.93,Month-to-month,DSL,2,1,No
+32,27.63,Two year,No internet,2,1,No
+35,67.46,Month-to-month,Fiber,2,1,No
+3,75.37,Two year,DSL,1,0,No
+66,94.64,One year,Fiber,0,0,No
+47,68.63,One year,Fiber,2,0,No
+14,41.36,Two year,Fiber,0,0,No
+65,49.34,Two year,Fiber,1,0,No
+50,74.36,Month-to-month,Fiber,1,3,No
+50,43.71,Two year,Fiber,4,1,No
+68,67.64,Month-to-month,Fiber,4,1,No
+30,53.43,Month-to-month,No internet,2,1,No
+26,81.86,One year,Fiber,4,0,No
+45,55.91,Month-to-month,DSL,2,0,No
+64,10.0,Month-to-month,No internet,0,0,No
+59,58.63,Month-to-month,DSL,1,4,No
+57,49.83,Month-to-month,DSL,3,2,No
+56,79.77,Month-to-month,Fiber,1,0,No
+3,89.54,One year,Fiber,1,0,No
+36,72.96,Month-to-month,DSL,2,2,No
+26,57.58,One year,DSL,5,2,No
+27,65.24,Month-to-month,DSL,1,2,No
+62,14.76,Month-to-month,No internet,0,0,No
+29,77.65,Month-to-month,DSL,1,1,No
+61,57.26,Month-to-month,Fiber,1,0,No
+66,70.85,Two year,Fiber,0,1,No
+33,49.73,Two year,No internet,1,0,No
+13,15.37,Month-to-month,No internet,0,2,No
+51,28.18,Month-to-month,DSL,1,0,No
+63,46.78,One year,DSL,3,0,No
+30,82.83,Month-to-month,DSL,1,0,No
+15,29.59,Month-to-month,Fiber,1,1,No
+38,27.05,Month-to-month,No internet,0,0,No
+71,42.32,One year,DSL,0,3,No
+38,51.65,Month-to-month,DSL,0,0,No
+33,48.03,Two year,DSL,0,3,No
+32,74.21,Month-to-month,DSL,0,2,No
+53,76.08,Month-to-month,Fiber,3,0,Yes
+25,75.21,Two year,DSL,0,0,No
+53,100.68,Month-to-month,Fiber,1,1,No
+72,75.6,Month-to-month,Fiber,2,0,No
+56,67.81,Month-to-month,Fiber,4,2,Yes
+67,82.54,One year,Fiber,1,1,No
+57,36.4,One year,No internet,1,1,No
+61,51.93,Month-to-month,Fiber,0,1,No
+3,79.72,Month-to-month,Fiber,2,2,Yes
+26,49.93,Month-to-month,DSL,0,3,No
+20,16.59,Month-to-month,No internet,1,0,No
+63,41.18,Month-to-month,DSL,0,1,Yes
+17,12.49,Month-to-month,No internet,1,0,No
+70,80.11,Month-to-month,DSL,0,2,No
+51,47.72,One year,DSL,1,1,No
+9,97.88,One year,Fiber,2,1,Yes
+50,77.62,One year,Fiber,0,1,No
+25,32.35,One year,DSL,3,1,Yes
+22,58.82,Month-to-month,DSL,1,2,Yes
+72,31.24,One year,DSL,2,0,No
+58,67.14,Month-to-month,DSL,3,1,No
+55,50.84,One year,DSL,0,0,No
+23,72.1,Month-to-month,DSL,2,1,No
+48,103.67,One year,Fiber,3,3,No
+25,40.29,Two year,Fiber,1,0,No
+44,45.78,Month-to-month,DSL,1,0,No
+29,50.81,Month-to-month,Fiber,2,1,Yes
+44,68.17,Two year,No internet,1,1,No
+54,66.19,Month-to-month,Fiber,1,0,No
+23,48.7,Month-to-month,Fiber,0,1,No
+1,99.81,Month-to-month,DSL,1,0,Yes
+7,60.48,Month-to-month,Fiber,3,0,No
+66,22.56,Month-to-month,DSL,0,0,No
+70,51.83,Two year,Fiber,1,0,No
+50,,One year,Fiber,2,1,No
+8,55.91,Month-to-month,DSL,1,1,No
+43,58.28,One year,Fiber,1,0,No
+32,45.3,Two year,DSL,0,3,No
+18,76.06,Month-to-month,Fiber,0,2,No
+28,81.48,One year,DSL,2,0,No
+57,81.67,Month-to-month,Fiber,1,2,No
+72,63.74,Month-to-month,Fiber,2,1,No
+63,50.43,One year,DSL,1,1,No
+15,70.39,One year,DSL,1,0,No
+37,58.6,Two year,No internet,1,0,No
+39,32.91,Month-to-month,DSL,2,1,No
+22,77.28,Month-to-month,DSL,1,1,No
+32,68.74,Month-to-month,Fiber,1,0,No
+28,22.52,Month-to-month,DSL,4,0,Yes
+6,18.56,Month-to-month,DSL,0,0,No
+30,81.68,Month-to-month,DSL,0,1,No
+27,84.07,One year,DSL,3,0,No
+23,63.62,Month-to-month,Fiber,0,2,No
+45,50.76,Month-to-month,DSL,0,1,No
+52,19.35,Month-to-month,DSL,1,1,No
+4,90.24,One year,Fiber,0,0,No
+25,54.43,Month-to-month,DSL,0,1,No
+3,23.95,Month-to-month,DSL,1,2,Yes
+60,59.09,Month-to-month,DSL,2,2,No
+67,10.0,Month-to-month,No internet,3,0,No
+34,86.15,Month-to-month,Fiber,0,2,No
+69,53.34,Two year,Fiber,0,2,No
+46,81.74,Month-to-month,Fiber,3,2,No
+63,11.94,Month-to-month,No internet,2,1,No
+69,27.69,Month-to-month,Fiber,0,1,No
+43,74.92,Month-to-month,DSL,1,1,No
+33,76.02,Two year,DSL,2,0,No
+54,44.56,One year,DSL,0,0,No
+13,80.49,Month-to-month,Fiber,3,0,Yes
+22,83.76,One year,Fiber,2,1,No
+40,34.41,Month-to-month,No internet,1,1,No
+15,89.51,Month-to-month,DSL,1,0,No
+36,83.34,Month-to-month,Fiber,2,2,Yes
+62,67.85,Two year,Fiber,1,0,No
+57,63.56,One year,DSL,0,1,No
+65,16.4,Month-to-month,No internet,0,1,No
+62,33.69,One year,DSL,1,4,No
+24,99.39,Month-to-month,Fiber,3,1,Yes
+52,65.68,Month-to-month,DSL,1,1,No
+27,37.77,Month-to-month,Fiber,0,3,No
+70,11.33,Month-to-month,No internet,1,3,No
+13,90.15,Month-to-month,Fiber,3,0,Yes
+20,43.72,Two year,Fiber,4,0,No
+68,59.94,Month-to-month,Fiber,1,0,No
+18,128.23,Month-to-month,Fiber,0,0,Yes
+45,68.38,Month-to-month,Fiber,3,0,No
+21,76.65,Month-to-month,DSL,0,1,No
+21,85.01,Month-to-month,DSL,0,0,No
+49,36.83,Month-to-month,DSL,4,1,No
+58,80.33,Month-to-month,Fiber,2,0,No
+17,116.18,Month-to-month,Fiber,1,1,Yes
+71,64.19,Month-to-month,DSL,2,0,No
+7,102.31,One year,DSL,2,1,Yes
+8,62.26,Two year,Fiber,2,0,No
+71,90.94,Month-to-month,DSL,0,1,No
+4,75.33,One year,Fiber,0,2,Yes
+23,68.45,One year,Fiber,0,2,No
+9,87.8,One year,Fiber,1,2,No
+17,,One year,DSL,2,2,No
+6,73.31,Month-to-month,Fiber,1,0,Yes
+26,84.7,Two year,Fiber,1,1,No
+22,18.85,Month-to-month,DSL,0,0,Yes
+12,59.03,Month-to-month,Fiber,4,1,No
+52,89.45,One year,Fiber,1,2,No
+3,74.83,Two year,DSL,3,1,Yes
+35,62.14,Month-to-month,DSL,2,1,No
+22,80.52,Two year,Fiber,1,1,Yes
+47,83.05,One year,Fiber,2,0,No
+25,94.16,One year,Fiber,1,0,No
+35,10.0,Two year,No internet,0,0,No
+59,44.81,One year,DSL,3,2,No
+11,73.51,Month-to-month,Fiber,1,0,Yes
+32,28.92,One year,No internet,1,1,No
+41,12.81,Month-to-month,DSL,2,1,No
+54,49.85,Two year,Fiber,2,0,No
+39,24.67,Two year,No internet,2,1,No
+53,75.26,One year,DSL,2,2,No
+58,46.62,Month-to-month,DSL,0,0,No
+57,41.66,Month-to-month,DSL,3,0,No
+45,35.57,Month-to-month,No internet,1,1,No
+67,68.44,Month-to-month,Fiber,0,0,No
+2,92.62,One year,Fiber,1,0,No
+36,70.57,Two year,Fiber,1,1,No
+58,10.0,One year,No internet,0,0,No
+8,103.41,Month-to-month,Fiber,1,0,Yes
+59,99.75,Two year,Fiber,3,2,No
+3,55.89,Two year,Fiber,0,1,No
+57,82.91,One year,Fiber,2,1,No
+14,48.47,Month-to-month,DSL,0,0,No
+49,87.38,One year,Fiber,2,1,No
+60,37.49,Month-to-month,DSL,0,1,No
+59,72.44,Month-to-month,DSL,2,0,No
+42,78.9,One year,DSL,1,1,No
+66,36.05,One year,DSL,2,0,No
+11,76.35,Month-to-month,Fiber,2,1,No
+18,79.32,Two year,DSL,2,4,Yes
+10,34.97,Two year,DSL,1,2,No
+52,61.62,One year,Fiber,2,1,No
+65,88.23,Month-to-month,Fiber,2,0,No
+67,51.79,Month-to-month,DSL,2,0,No
+38,23.49,One year,DSL,2,0,No
+10,48.6,Two year,DSL,2,1,Yes
+13,109.93,Month-to-month,Fiber,2,0,Yes
+46,116.26,Month-to-month,Fiber,1,0,No
+65,12.26,Month-to-month,No internet,0,0,No
+72,56.73,Month-to-month,Fiber,1,2,No
+52,15.84,One year,No internet,4,4,No
+64,91.04,Month-to-month,DSL,1,0,No
+35,71.84,Month-to-month,DSL,0,2,Yes
+15,104.28,Month-to-month,Fiber,0,1,Yes
+34,44.97,Two year,No internet,2,1,No
+8,10.0,Month-to-month,No internet,3,0,No
+49,36.02,Month-to-month,DSL,1,1,No
+24,41.08,One year,DSL,2,0,No
+25,44.56,Two year,DSL,1,1,No
+1,61.43,Month-to-month,Fiber,1,0,No
+72,13.76,Month-to-month,No internet,3,0,No
+31,87.81,One year,Fiber,3,1,No
+57,57.72,Month-to-month,DSL,0,0,No
+38,99.4,Two year,Fiber,0,2,No
+47,60.04,One year,DSL,0,1,No
+34,41.47,Month-to-month,DSL,1,0,No
+50,58.77,Two year,DSL,2,0,No
+15,44.77,One year,Fiber,0,2,No
+72,28.76,Month-to-month,Fiber,1,1,No
+31,87.86,Month-to-month,Fiber,2,2,No
+1,45.37,One year,No internet,0,1,No
+69,76.44,Two year,Fiber,3,0,No
+2,17.17,Month-to-month,No internet,0,0,No
+35,48.16,Month-to-month,Fiber,1,0,No
+57,48.34,Two year,No internet,2,0,No
+27,64.85,Month-to-month,DSL,2,0,No
+16,60.82,Month-to-month,DSL,0,0,No
+18,54.9,Month-to-month,DSL,0,1,No
+50,45.61,One year,DSL,0,2,No
+42,32.73,One year,DSL,3,0,No
+37,80.05,Month-to-month,Fiber,2,0,No
+38,14.23,Month-to-month,No internet,0,0,No
+23,46.52,One year,DSL,1,0,No
+68,109.36,One year,Fiber,0,1,No
+17,74.04,Month-to-month,Fiber,1,1,Yes
+61,10.0,Month-to-month,DSL,1,2,No
+56,14.29,One year,No internet,2,0,No
+1,34.97,Month-to-month,DSL,0,4,Yes
+13,72.22,Month-to-month,Fiber,2,1,Yes
+40,26.51,Two year,DSL,1,2,No
+12,83.67,Two year,Fiber,1,1,No
+62,69.08,Month-to-month,Fiber,0,0,Yes
+32,45.49,Two year,DSL,2,2,No
+61,77.99,One year,Fiber,0,0,No
+9,73.47,Two year,Fiber,2,0,No
+2,72.31,Two year,Fiber,0,0,No
+47,70.52,One year,Fiber,2,1,No
+58,74.59,Month-to-month,Fiber,1,0,No
+72,81.86,Month-to-month,Fiber,0,1,No
+57,59.36,Month-to-month,DSL,1,1,No
+54,47.54,Month-to-month,No internet,1,1,No
+5,64.07,One year,Fiber,0,1,No
+44,29.76,Month-to-month,No internet,2,1,No
+52,103.92,Two year,DSL,0,1,No
+29,74.18,Two year,Fiber,0,0,No
+72,74.96,Month-to-month,Fiber,1,1,No
+72,49.73,One year,Fiber,1,1,No
+62,40.74,Two year,DSL,4,1,No
+64,,One year,DSL,1,1,No
+41,85.67,Two year,Fiber,4,1,Yes
+60,87.98,Month-to-month,Fiber,1,1,Yes
+6,81.53,Month-to-month,Fiber,1,1,No
+17,71.08,Month-to-month,DSL,0,0,Yes
+48,55.01,Month-to-month,Fiber,0,1,No
+9,64.78,Month-to-month,DSL,2,3,Yes
+59,55.27,One year,DSL,0,1,No
+13,57.5,One year,DSL,1,0,No
+26,67.75,Month-to-month,Fiber,0,2,No
+19,35.94,Month-to-month,DSL,3,2,Yes
+39,30.7,Month-to-month,DSL,3,0,No
+6,61.41,Month-to-month,DSL,0,1,No
+59,64.96,Month-to-month,DSL,1,0,Yes
+64,72.41,Month-to-month,Fiber,0,1,No
+54,74.7,Two year,Fiber,0,2,No
+14,40.6,Two year,DSL,1,1,No
+21,65.06,Month-to-month,DSL,1,0,No
+17,56.21,One year,DSL,4,0,No
+44,47.69,Two year,DSL,0,1,No
+64,42.32,Month-to-month,No internet,0,0,No
+64,37.9,Month-to-month,No internet,1,0,No
+69,44.28,Month-to-month,Fiber,2,0,No
+50,75.98,Month-to-month,Fiber,3,1,Yes
+16,10.0,Month-to-month,No internet,1,0,No
+29,57.79,One year,DSL,0,2,No
+22,10.0,Month-to-month,No internet,2,0,No
+5,58.94,Month-to-month,DSL,0,2,No
+58,39.24,Month-to-month,No internet,0,0,No
+42,72.78,Month-to-month,Fiber,1,0,No
+70,31.71,Month-to-month,DSL,0,0,No
+61,94.13,Month-to-month,DSL,1,0,No
+47,98.12,Month-to-month,Fiber,1,0,Yes
+4,64.38,Month-to-month,Fiber,1,1,No
+32,69.78,One year,Fiber,2,2,No
+35,35.38,Month-to-month,Fiber,1,1,No
+49,34.47,One year,No internet,2,2,Yes
+41,10.0,Two year,No internet,0,1,No
+57,38.33,Month-to-month,No internet,2,1,No
+2,45.52,Month-to-month,No internet,0,0,No
+9,53.59,One year,DSL,0,2,No
+69,10.0,Month-to-month,No internet,1,3,No
+32,99.98,Two year,Fiber,4,0,No
+60,75.04,One year,Fiber,1,2,No
+62,26.86,Month-to-month,No internet,1,0,No
+9,36.37,Month-to-month,DSL,0,1,No
+51,58.86,One year,DSL,3,1,No
+13,50.94,One year,DSL,2,0,No
+12,48.43,Month-to-month,Fiber,1,1,No
+18,101.8,One year,Fiber,2,1,Yes
+55,90.18,Month-to-month,DSL,1,1,Yes
+7,75.36,Two year,DSL,4,2,Yes
+49,92.38,Two year,Fiber,0,0,No
+28,90.3,Month-to-month,DSL,2,2,Yes
+20,54.05,Month-to-month,Fiber,1,3,Yes
+18,33.81,Month-to-month,DSL,2,1,No
+25,46.71,Two year,DSL,1,1,No
+26,60.96,Month-to-month,DSL,1,2,No
+23,19.15,Month-to-month,No internet,1,1,No
+38,34.6,One year,DSL,1,0,No
+72,25.11,Month-to-month,No internet,0,0,No
+33,53.11,Month-to-month,DSL,1,0,Yes
+14,41.83,One year,No internet,1,2,No
+45,55.89,Month-to-month,DSL,1,0,No
+60,16.91,One year,DSL,2,1,No
+44,62.71,Month-to-month,DSL,3,3,No
+39,86.64,Month-to-month,DSL,3,2,No
+49,75.58,Month-to-month,Fiber,0,1,No
+64,94.74,Month-to-month,Fiber,2,1,No
+6,64.9,Two year,Fiber,2,3,No
+71,66.31,Month-to-month,DSL,1,2,No
+65,60.11,Month-to-month,Fiber,2,0,Yes
+70,50.07,Two year,DSL,2,0,No
+36,70.23,Month-to-month,Fiber,0,0,No
+62,84.53,Two year,Fiber,0,1,No
+6,38.52,Month-to-month,DSL,1,0,No
+30,10.0,Month-to-month,No internet,0,1,No
+64,84.4,Month-to-month,Fiber,1,1,No
+20,33.65,Month-to-month,No internet,0,2,No
+55,77.25,Two year,Fiber,1,1,No
+24,73.66,Two year,DSL,1,1,No
+43,70.95,One year,Fiber,1,1,No
+48,80.63,Month-to-month,Fiber,1,3,No
+64,68.0,Month-to-month,Fiber,1,1,No
+25,69.83,Month-to-month,Fiber,0,3,No
+57,61.8,Month-to-month,DSL,3,0,No
+32,100.33,Month-to-month,DSL,1,2,Yes
+29,89.85,Month-to-month,Fiber,2,3,Yes
+6,35.97,Month-to-month,No internet,2,1,Yes
+6,70.47,One year,DSL,2,0,No
+56,28.04,Month-to-month,Fiber,0,1,No
+8,81.38,Month-to-month,Fiber,0,0,No
+9,93.21,Month-to-month,Fiber,2,0,Yes
+14,56.69,One year,DSL,2,0,No
+25,54.14,One year,DSL,2,0,No
+12,56.2,Month-to-month,Fiber,0,1,No
+43,66.33,Two year,Fiber,2,1,No
+60,58.33,One year,Fiber,1,3,No
+39,94.99,Month-to-month,Fiber,0,1,No
+48,85.03,Month-to-month,DSL,3,0,No
+65,63.7,Two year,No internet,0,2,No
+65,58.0,Month-to-month,Fiber,1,2,No
+48,61.63,Month-to-month,Fiber,0,2,No
+5,60.01,Month-to-month,Fiber,2,2,Yes
+57,54.63,Month-to-month,Fiber,1,2,No
+55,34.95,One year,DSL,1,1,No
+22,14.69,One year,No internet,4,0,No
+12,72.49,Two year,DSL,2,1,No
+10,60.64,One year,Fiber,2,1,No
+20,46.06,One year,No internet,3,0,Yes
+54,82.35,Month-to-month,DSL,2,0,No
+69,80.7,Two year,Fiber,3,0,No
+12,49.58,Month-to-month,No internet,3,0,No
+30,27.77,Month-to-month,DSL,1,5,No
+61,43.84,Two year,DSL,4,0,No
+7,58.79,Two year,DSL,2,0,No
+68,79.46,Month-to-month,Fiber,0,2,No
+2,83.58,Month-to-month,DSL,0,1,No
+21,35.02,Month-to-month,DSL,5,0,No
+3,14.26,One year,No internet,1,1,No
+55,73.3,Month-to-month,Fiber,1,0,No
+31,64.63,Month-to-month,Fiber,0,1,No
+32,34.15,Month-to-month,DSL,0,0,No
+40,45.47,Two year,DSL,0,1,No
+22,70.09,Two year,Fiber,3,1,No
+55,83.95,Two year,DSL,1,0,No
+32,34.6,One year,DSL,1,0,No
+58,71.3,Month-to-month,DSL,4,1,No
+47,100.44,Month-to-month,Fiber,1,1,No
+49,44.75,Month-to-month,DSL,1,2,No
+72,60.2,Month-to-month,DSL,4,2,No
+37,66.52,One year,DSL,0,1,No
+22,63.22,Month-to-month,DSL,1,2,No
+53,56.64,Two year,DSL,2,1,No
+51,61.42,Month-to-month,Fiber,1,1,No
+35,88.25,Month-to-month,Fiber,1,1,Yes
+25,67.51,One year,Fiber,1,1,No
+67,55.57,One year,DSL,2,2,No
+19,58.52,Month-to-month,DSL,1,1,No
+6,42.12,One year,No internet,0,0,No
+46,93.56,One year,DSL,1,1,No
+6,40.24,Month-to-month,DSL,3,0,Yes
+55,56.05,Month-to-month,DSL,2,1,No
+61,45.31,Two year,Fiber,4,0,No
+52,84.63,Month-to-month,DSL,3,3,Yes
+18,75.88,Month-to-month,Fiber,1,2,No
+68,49.01,Month-to-month,DSL,0,1,No
+7,26.04,Month-to-month,No internet,3,0,No
+8,57.06,Two year,DSL,2,0,Yes
+22,60.36,Month-to-month,Fiber,3,1,Yes
+39,78.76,Two year,DSL,0,0,No
+52,37.89,Two year,No internet,1,1,No
+21,,Month-to-month,Fiber,2,0,No
+66,11.4,One year,No internet,0,1,No
+59,10.32,Two year,No internet,2,1,No
+17,52.73,Two year,DSL,3,0,No
+5,91.0,One year,Fiber,2,1,Yes
+51,85.03,Month-to-month,Fiber,1,0,No
+13,59.45,Month-to-month,Fiber,1,1,No
+21,88.36,Month-to-month,Fiber,1,2,No
+56,35.56,One year,DSL,2,0,No
+14,,Month-to-month,No internet,2,1,Yes
+26,78.15,One year,Fiber,0,1,No
+67,31.57,One year,DSL,0,2,No
+50,35.73,Month-to-month,DSL,0,0,No
+45,106.04,Two year,Fiber,0,1,No
+72,82.33,Month-to-month,DSL,2,0,No
+56,70.79,Month-to-month,No internet,1,0,Yes
+34,84.01,Two year,Fiber,3,0,No
+48,87.9,Month-to-month,Fiber,1,0,No
+39,51.9,Month-to-month,DSL,1,0,No
+27,67.99,Two year,Fiber,2,0,No
+71,42.44,Two year,No internet,2,1,No
+43,52.24,Two year,No internet,0,2,No
+54,90.73,Month-to-month,Fiber,1,1,No
+30,38.2,Month-to-month,DSL,1,0,No
+15,62.83,Month-to-month,DSL,0,1,No
+9,39.6,Month-to-month,DSL,2,0,No
+58,48.51,Two year,DSL,0,2,No
+38,57.72,Month-to-month,No internet,1,1,No
+38,51.01,One year,Fiber,0,0,No
+9,98.37,Month-to-month,DSL,2,0,No
+57,85.99,Month-to-month,Fiber,0,1,No
+19,65.68,Month-to-month,Fiber,0,0,No
+44,26.36,Month-to-month,No internet,1,1,No
+26,41.3,Month-to-month,DSL,1,0,No
+17,44.06,Two year,DSL,2,2,No
+12,76.47,One year,Fiber,2,0,Yes
+59,18.42,One year,No internet,2,1,No
+7,56.34,Month-to-month,Fiber,2,1,No
+1,50.57,One year,DSL,2,0,No
+23,48.71,One year,Fiber,1,0,No
+64,29.56,Month-to-month,DSL,2,1,No
+51,29.36,One year,DSL,1,2,No
+59,108.43,Two year,Fiber,3,3,No
+15,63.11,Two year,DSL,3,1,No
+70,86.92,Two year,Fiber,2,1,No
+9,55.23,Month-to-month,DSL,2,2,No
+3,65.13,Month-to-month,DSL,2,0,No
+35,48.52,Month-to-month,No internet,1,0,No
+32,83.16,Month-to-month,Fiber,1,1,No
+21,107.81,Month-to-month,Fiber,0,1,No
+13,74.26,Month-to-month,Fiber,1,0,Yes
+24,86.98,One year,Fiber,1,0,No
+27,69.08,Month-to-month,DSL,1,0,No
+44,56.36,One year,Fiber,3,1,No
+26,75.85,Two year,Fiber,1,0,No
+18,38.17,Month-to-month,Fiber,2,3,Yes
+44,52.4,Month-to-month,DSL,4,4,No
+42,49.42,One year,DSL,0,3,No
+32,68.22,Month-to-month,Fiber,2,1,Yes
+8,16.85,Month-to-month,No internet,0,0,No
+70,85.24,Two year,Fiber,1,0,No
+38,37.28,Month-to-month,DSL,2,0,No
+20,112.2,One year,Fiber,1,1,No
+53,66.35,Two year,DSL,2,2,No
+31,58.94,Month-to-month,Fiber,0,0,No
+12,37.94,One year,No internet,1,0,No
+51,74.9,Month-to-month,DSL,1,1,No
+7,62.38,Month-to-month,DSL,0,0,No
+20,34.88,Month-to-month,DSL,0,0,No
+48,119.75,One year,Fiber,2,0,No
+53,87.79,One year,Fiber,1,2,No
+72,10.0,Two year,No internet,3,1,No
+52,59.18,One year,DSL,2,4,No
+17,70.59,Month-to-month,Fiber,1,0,No
+52,75.13,Two year,Fiber,0,1,No
+55,51.13,Month-to-month,Fiber,2,0,No
+49,56.09,One year,DSL,2,1,No
+54,38.37,Month-to-month,DSL,3,0,No
+59,48.01,One year,DSL,1,1,No
+41,82.75,Two year,Fiber,1,0,No
+72,15.47,Month-to-month,No internet,2,0,No
+47,69.19,Month-to-month,Fiber,0,0,No
+4,91.4,Month-to-month,Fiber,0,1,Yes
+13,10.0,Month-to-month,No internet,2,2,Yes
+36,42.03,Month-to-month,DSL,0,0,No
+32,29.91,One year,DSL,5,1,Yes
+59,10.0,Month-to-month,No internet,0,1,Yes
+49,77.58,Month-to-month,Fiber,2,2,No
+1,87.79,One year,Fiber,2,0,No
+33,58.88,One year,Fiber,2,1,No
+40,87.2,Month-to-month,Fiber,1,2,No
+71,57.1,Two year,DSL,2,0,No
+48,27.35,Two year,DSL,2,0,No
+13,78.49,Two year,Fiber,0,2,No
+14,78.89,Month-to-month,DSL,2,0,No
+23,37.16,Month-to-month,Fiber,3,1,Yes
+29,115.1,Month-to-month,Fiber,0,3,No
+8,62.79,Two year,Fiber,2,1,No
+57,22.02,Two year,DSL,1,0,No
+5,57.77,One year,DSL,0,0,No
+5,41.62,Month-to-month,No internet,1,0,No
+10,19.39,Month-to-month,No internet,3,2,Yes
+10,61.23,One year,DSL,1,1,No
+41,97.39,Month-to-month,DSL,0,0,No
+59,59.11,Month-to-month,DSL,2,0,No
+68,84.65,One year,No internet,0,2,No
+59,80.29,One year,DSL,1,2,No
+50,76.03,Month-to-month,Fiber,2,0,No
+43,80.83,One year,Fiber,3,1,No
+23,48.61,Month-to-month,DSL,2,0,No
+30,79.99,Month-to-month,Fiber,0,1,No
+63,66.23,Month-to-month,DSL,0,0,No
+8,16.92,Month-to-month,No internet,1,0,No
+60,47.4,Month-to-month,Fiber,1,0,No
+59,101.43,Month-to-month,Fiber,2,1,No
+5,94.47,Month-to-month,Fiber,2,1,No
+18,26.66,Month-to-month,DSL,1,0,Yes
+23,58.42,Month-to-month,DSL,2,0,No
+66,95.54,One year,Fiber,3,2,Yes
+32,73.47,Month-to-month,DSL,3,0,No
+56,41.12,Month-to-month,DSL,0,0,No
+44,94.64,Month-to-month,Fiber,4,0,No
+6,75.3,Month-to-month,Fiber,1,0,Yes
+49,82.77,One year,Fiber,0,1,No
+46,36.61,Two year,DSL,1,0,No
+63,10.0,Month-to-month,Fiber,1,1,No
+67,59.45,Month-to-month,Fiber,3,1,No
+43,85.73,Month-to-month,Fiber,3,1,No
+64,50.89,Month-to-month,DSL,1,1,No
+11,68.0,Two year,DSL,0,0,No
+45,97.12,One year,Fiber,0,0,No
+42,48.39,One year,DSL,1,1,No
+13,46.42,Two year,DSL,2,1,No
+39,10.0,One year,No internet,3,1,No
+49,24.05,Month-to-month,DSL,1,1,No
+30,28.2,One year,DSL,0,1,No
+48,86.13,One year,Fiber,2,1,No
+54,68.59,Month-to-month,Fiber,0,1,Yes
+43,14.32,One year,No internet,2,1,No
+29,62.03,Month-to-month,Fiber,3,0,No
+20,59.42,Month-to-month,Fiber,1,0,Yes
+48,73.47,One year,DSL,1,1,No
+65,26.87,Month-to-month,No internet,0,1,Yes
+34,94.83,Month-to-month,Fiber,0,0,No
+37,10.0,Month-to-month,No internet,1,1,No
+66,85.65,One year,Fiber,0,1,No
+22,15.32,Two year,No internet,1,0,No
+59,19.37,One year,No internet,0,1,Yes
+19,82.06,One year,DSL,3,0,No
+19,17.2,Month-to-month,No internet,1,0,No
+21,34.84,One year,No internet,3,0,No
+4,10.0,Month-to-month,No internet,1,0,No
+34,55.72,Month-to-month,DSL,2,2,No
+26,23.18,One year,DSL,1,0,No
+17,73.85,Month-to-month,Fiber,1,0,No
+55,82.71,Two year,Fiber,2,0,No
+38,77.13,Month-to-month,DSL,1,1,No
+15,58.64,One year,Fiber,1,3,No
+14,14.42,Month-to-month,No internet,1,0,No
+59,,One year,Fiber,1,2,No
+20,69.92,One year,Fiber,1,0,No
+29,55.72,Month-to-month,Fiber,1,0,No
+9,31.86,Two year,Fiber,0,0,No
+58,54.15,One year,Fiber,3,0,No
+26,54.02,Month-to-month,DSL,2,1,No
+51,72.04,One year,Fiber,1,1,No
+30,66.04,Month-to-month,DSL,1,2,No
+58,91.84,One year,Fiber,4,1,No
+30,46.01,Month-to-month,DSL,1,1,No
+65,23.29,Two year,DSL,1,1,No
+53,83.06,Month-to-month,Fiber,2,0,No
+35,74.8,One year,Fiber,1,0,Yes
+35,49.83,Two year,DSL,1,0,No
+45,79.41,Two year,DSL,3,1,No
+50,84.01,One year,Fiber,0,1,No
+51,57.46,One year,DSL,2,2,No
+3,78.28,Month-to-month,Fiber,2,0,Yes
+20,91.99,Month-to-month,Fiber,3,0,Yes
+32,61.21,One year,Fiber,3,3,Yes
+39,37.4,One year,DSL,2,0,No
+7,70.32,Month-to-month,Fiber,2,0,Yes
+15,31.44,One year,DSL,0,1,No
+34,74.09,Month-to-month,Fiber,1,2,No
+33,76.94,One year,Fiber,0,1,No
+45,73.62,Month-to-month,Fiber,1,0,No
+6,47.77,Two year,DSL,0,0,No
+58,88.06,Month-to-month,DSL,2,1,No
+22,73.81,Month-to-month,DSL,1,0,Yes
+40,73.06,One year,Fiber,1,0,No
+69,76.86,Month-to-month,Fiber,2,0,No
+28,102.53,Month-to-month,Fiber,1,1,No
+23,13.31,One year,No internet,0,1,No
+20,35.69,Two year,DSL,1,1,No
+47,59.54,One year,DSL,2,0,No
+69,83.28,Month-to-month,Fiber,0,1,No
+41,64.77,Month-to-month,DSL,3,2,No
+15,71.56,One year,DSL,2,1,No
+69,40.35,One year,DSL,2,1,No
+4,26.83,Two year,DSL,2,2,Yes
+30,63.31,Month-to-month,Fiber,2,0,No
+10,86.64,Month-to-month,Fiber,2,0,Yes
+3,10.0,Two year,No internet,0,0,No
+72,36.32,Month-to-month,Fiber,3,1,No
+7,57.89,Two year,DSL,1,1,No
+66,13.66,Month-to-month,No internet,0,0,No
+40,20.46,One year,DSL,1,2,No
+24,56.49,Month-to-month,DSL,2,0,No
+63,67.27,Two year,Fiber,1,1,No
+1,88.52,Two year,DSL,3,0,No
+50,26.78,Month-to-month,No internet,0,0,No
+56,36.72,One year,No internet,0,1,No
+27,74.66,Month-to-month,Fiber,2,0,No
+22,13.05,Month-to-month,No internet,1,1,No
+1,65.25,One year,Fiber,0,1,No
+2,76.62,One year,DSL,2,1,No
+4,89.96,Month-to-month,Fiber,5,0,No
+33,45.23,Month-to-month,Fiber,2,0,No
+39,30.03,Month-to-month,DSL,0,1,No
+31,31.14,Month-to-month,DSL,0,1,Yes
+51,46.2,Month-to-month,No internet,2,0,No
+27,40.37,Month-to-month,Fiber,2,0,No
+57,40.73,Two year,No internet,1,0,No
+48,62.97,Month-to-month,DSL,0,1,No
+68,77.94,Two year,Fiber,2,1,No
+53,65.54,Month-to-month,Fiber,1,0,No
+10,78.77,Month-to-month,DSL,3,0,Yes
+41,57.27,Month-to-month,DSL,1,0,Yes
+48,46.12,Month-to-month,Fiber,1,1,No
+2,50.77,One year,Fiber,1,2,No
+4,22.1,Month-to-month,DSL,0,1,Yes
+2,79.01,Month-to-month,DSL,5,1,Yes
+13,83.49,Month-to-month,DSL,1,1,Yes
+64,76.73,One year,DSL,1,1,No
+18,72.14,Month-to-month,Fiber,1,2,No
+14,46.47,Month-to-month,Fiber,2,2,No
+33,53.92,Month-to-month,Fiber,1,1,No
+29,10.0,One year,No internet,2,1,No
+72,54.09,Two year,DSL,2,4,No
+8,102.75,Month-to-month,Fiber,2,0,Yes
+61,82.67,Month-to-month,DSL,0,2,No
+17,45.23,Month-to-month,DSL,2,0,No
+23,30.27,Two year,Fiber,0,0,No
+35,51.66,Month-to-month,Fiber,2,3,No
+71,78.77,One year,DSL,4,0,No
+17,59.63,One year,DSL,0,0,No
+25,67.89,Month-to-month,Fiber,1,3,No
+48,66.49,One year,Fiber,0,3,No
+49,59.98,One year,Fiber,1,1,No
+27,30.92,Month-to-month,DSL,1,0,No
+10,116.44,Month-to-month,Fiber,2,3,Yes
+57,109.37,Month-to-month,Fiber,1,1,Yes
+65,58.56,Month-to-month,Fiber,4,2,No
+44,10.0,One year,No internet,0,1,No
+63,58.38,One year,DSL,1,1,No
+19,72.05,Two year,Fiber,2,3,No
+63,67.56,Month-to-month,DSL,0,1,No
+59,72.09,Month-to-month,DSL,1,1,No
+65,10.0,Month-to-month,No internet,1,0,No
+68,50.6,One year,No internet,1,0,No
+25,47.94,Month-to-month,DSL,2,1,No
+9,67.16,Month-to-month,DSL,4,1,Yes
+54,69.77,One year,Fiber,3,0,Yes
+49,73.45,One year,DSL,1,0,No
+47,10.0,Month-to-month,DSL,0,1,No
+46,89.77,One year,Fiber,1,1,No
+3,38.36,Month-to-month,DSL,0,1,Yes
+49,76.47,One year,Fiber,1,0,No
+35,79.89,One year,DSL,2,0,No
+3,58.94,One year,Fiber,1,0,No
+62,55.8,Month-to-month,Fiber,2,0,No
+3,67.56,One year,Fiber,0,2,No
+17,66.3,Month-to-month,Fiber,2,1,No
+22,54.0,Month-to-month,Fiber,0,1,No
+57,57.13,Two year,DSL,1,0,No
+6,58.16,Month-to-month,DSL,3,1,No
+28,64.26,One year,DSL,0,0,No
+27,58.61,Month-to-month,Fiber,2,3,No
+30,10.0,Month-to-month,No internet,1,0,No
+63,,Month-to-month,No internet,3,2,Yes
+24,,Month-to-month,DSL,2,0,No
+26,50.48,One year,DSL,1,2,No
+30,40.86,Two year,DSL,1,1,No
+29,61.6,Two year,DSL,0,0,No
+69,56.15,Two year,Fiber,1,1,No
+20,52.56,Month-to-month,DSL,1,0,No
+9,68.87,Two year,Fiber,0,1,No
+31,54.33,Month-to-month,DSL,1,3,Yes
+7,78.71,Month-to-month,DSL,3,3,No
+58,10.0,Month-to-month,No internet,1,1,No
+65,27.17,Month-to-month,Fiber,0,0,No
+60,43.12,One year,DSL,1,1,No
+58,31.97,Month-to-month,DSL,1,0,No
+31,10.0,Month-to-month,No internet,2,1,No
+51,59.93,Month-to-month,No internet,1,3,No
+29,86.19,Month-to-month,Fiber,0,1,No
+62,38.34,Two year,No internet,4,1,No
+15,19.29,Month-to-month,No internet,2,1,No
+11,33.42,Month-to-month,No internet,1,1,No
+71,46.55,One year,DSL,2,0,No
+26,71.29,Two year,DSL,5,0,No
+23,78.78,Month-to-month,Fiber,4,2,Yes
+49,74.27,Month-to-month,Fiber,2,0,No
+25,75.78,Two year,Fiber,2,0,No
+54,84.31,Month-to-month,DSL,3,1,Yes
+31,28.35,Month-to-month,No internet,0,2,Yes
+57,34.41,Month-to-month,DSL,1,3,No
+6,61.72,Month-to-month,DSL,2,2,Yes
+53,64.78,Two year,DSL,2,0,No
+24,52.11,Two year,DSL,0,1,No
+31,53.96,Month-to-month,DSL,2,0,Yes
+68,33.68,One year,DSL,0,1,No
+35,56.94,Two year,DSL,1,0,No
+6,30.71,One year,DSL,0,0,No
+34,49.98,One year,DSL,1,1,Yes
+18,41.61,Two year,DSL,2,1,No
+35,94.66,Month-to-month,Fiber,1,0,No
+16,86.0,Month-to-month,DSL,0,0,No
+47,10.0,One year,No internet,1,0,No
+17,74.91,One year,Fiber,2,0,No
+34,48.79,Month-to-month,DSL,2,0,No
+69,64.29,Month-to-month,DSL,1,1,No
+46,76.92,One year,Fiber,4,2,No
+52,47.25,Month-to-month,DSL,1,1,No
+56,76.88,Two year,Fiber,1,1,No
+67,70.71,Two year,Fiber,0,1,No
+64,106.78,Month-to-month,Fiber,1,2,No
+62,39.13,One year,DSL,1,0,No
+25,60.15,One year,DSL,2,0,No
+45,65.19,Month-to-month,DSL,2,2,No
+59,63.77,Month-to-month,DSL,1,1,Yes
+41,69.04,Month-to-month,Fiber,0,1,No
+10,52.37,Two year,No internet,0,0,No
+37,10.0,Two year,No internet,1,0,No
+16,33.12,Month-to-month,DSL,2,1,Yes
+50,88.27,Two year,Fiber,1,0,No
+62,10.0,One year,No internet,2,0,No
+51,,Month-to-month,DSL,2,3,No
+40,65.66,Month-to-month,Fiber,1,1,No
+44,59.29,Two year,Fiber,2,1,No
+39,87.74,Month-to-month,Fiber,0,0,Yes
+33,73.09,One year,DSL,2,1,No
+17,56.77,One year,DSL,0,2,No
+49,96.09,One year,Fiber,1,0,Yes
+26,47.27,Month-to-month,Fiber,0,1,No
+12,56.52,Month-to-month,DSL,2,1,No
+58,81.96,Two year,DSL,1,1,Yes
+40,74.54,Month-to-month,DSL,0,1,Yes
+38,103.73,Month-to-month,Fiber,0,0,No
+38,43.2,Month-to-month,DSL,2,1,No
+6,43.34,One year,No internet,1,0,No
+39,66.46,Month-to-month,Fiber,0,1,No
+40,66.9,One year,DSL,0,0,No
+37,101.22,Month-to-month,Fiber,2,0,No
+1,59.12,One year,Fiber,0,1,No
+55,10.0,Two year,No internet,2,2,No
+45,61.95,Month-to-month,No internet,3,1,Yes
+55,84.76,One year,Fiber,0,1,No
+37,72.86,One year,Fiber,1,1,No
+24,71.76,One year,Fiber,1,1,No
+60,13.08,Month-to-month,DSL,3,1,No
+26,79.17,One year,Fiber,1,1,No
+33,44.39,Month-to-month,DSL,0,0,No
+2,76.05,Month-to-month,Fiber,1,0,No
+12,55.61,Month-to-month,DSL,1,0,Yes
+9,10.0,Month-to-month,No internet,1,1,No
+31,84.8,Month-to-month,Fiber,2,0,No
+19,58.78,One year,DSL,1,1,No
+24,61.47,One year,DSL,2,1,No
+56,71.33,Month-to-month,Fiber,1,1,No
+50,25.98,Month-to-month,No internet,3,0,No
+58,58.46,One year,DSL,2,2,No
+59,60.49,Month-to-month,DSL,1,0,Yes
+18,64.51,One year,DSL,0,0,No
+45,80.66,Month-to-month,Fiber,0,0,No
+63,111.99,Two year,Fiber,2,2,No
+22,60.48,Month-to-month,Fiber,0,0,No
+28,47.5,One year,DSL,1,1,No
+39,58.86,Month-to-month,No internet,1,2,Yes
+58,71.91,Month-to-month,Fiber,1,1,No
+11,93.63,Two year,Fiber,1,1,No
+34,77.71,Two year,Fiber,2,1,No
+18,20.44,Month-to-month,No internet,1,0,No
+52,94.72,Month-to-month,Fiber,2,0,No
+18,35.37,Two year,No internet,2,2,No
+26,44.32,Month-to-month,Fiber,2,0,No
+25,78.47,Two year,Fiber,0,0,No
+6,55.1,Month-to-month,Fiber,1,1,No
+49,80.42,Month-to-month,DSL,1,2,No
+19,110.07,Month-to-month,Fiber,1,0,No
+36,62.48,Month-to-month,No internet,0,1,No
+51,62.15,Month-to-month,DSL,0,1,No
+57,65.77,Month-to-month,Fiber,1,1,No
+67,61.44,Two year,DSL,1,1,No
+10,56.21,Month-to-month,Fiber,2,1,No
+46,101.91,One year,DSL,1,1,No
+24,78.89,Month-to-month,DSL,1,3,No
+56,31.09,One year,No internet,1,1,No
+28,74.94,Month-to-month,DSL,0,0,No
+2,65.17,One year,Fiber,1,1,No
+62,52.84,One year,Fiber,1,0,No
+55,30.73,Two year,Fiber,0,1,No
+24,56.66,Two year,DSL,1,1,Yes
+61,70.84,Month-to-month,Fiber,0,1,No
+30,85.39,Month-to-month,Fiber,0,2,No
+30,25.26,Month-to-month,No internet,2,1,No
+22,34.48,One year,No internet,0,1,No
+36,91.22,Month-to-month,Fiber,1,0,Yes
+72,10.0,Two year,No internet,2,0,No
+4,72.38,Two year,DSL,3,1,No
+43,66.87,Month-to-month,Fiber,1,2,No
+13,35.35,Month-to-month,No internet,0,0,No
+9,45.44,Month-to-month,No internet,1,0,No
+5,75.58,Month-to-month,DSL,0,0,No
+20,57.58,Month-to-month,DSL,2,0,No
+53,78.57,Month-to-month,Fiber,1,2,No
+54,72.84,Two year,DSL,0,0,No
+58,24.98,One year,DSL,3,4,No
+11,35.97,Month-to-month,DSL,1,1,Yes
+8,69.41,Month-to-month,Fiber,3,0,No
+71,28.34,One year,DSL,2,1,No
+67,49.57,Month-to-month,DSL,0,2,No
+51,48.47,Two year,DSL,4,0,No
+61,76.74,Month-to-month,Fiber,1,0,No
+58,73.86,Two year,Fiber,0,1,No
+42,96.39,One year,Fiber,0,0,No
+35,66.46,Two year,DSL,5,0,Yes
+71,73.58,One year,Fiber,1,3,No
+49,18.33,One year,No internet,2,1,No
+64,54.05,Month-to-month,DSL,0,1,No
+15,74.4,One year,Fiber,2,1,Yes
+17,105.38,One year,DSL,2,2,Yes
+46,45.85,Month-to-month,Fiber,2,1,Yes
+69,56.47,One year,Fiber,2,1,No
+45,53.54,Month-to-month,Fiber,0,1,No
+32,60.39,Month-to-month,DSL,3,1,No
+2,29.59,Month-to-month,No internet,0,3,No
+12,,Month-to-month,Fiber,1,3,No
+17,72.92,Month-to-month,DSL,2,1,Yes
+15,82.39,Two year,Fiber,1,1,No
+51,93.76,Month-to-month,Fiber,2,0,No
+50,79.07,Two year,DSL,0,0,No
+28,12.38,Two year,DSL,0,1,No
+72,38.71,Month-to-month,No internet,1,1,No
+29,29.2,One year,DSL,3,0,No
+33,59.99,Month-to-month,DSL,2,2,No
+38,73.54,Two year,Fiber,2,0,No
+42,74.4,Month-to-month,Fiber,2,3,Yes
+14,10.0,Month-to-month,No internet,2,0,No
+22,75.61,Month-to-month,DSL,1,3,No
+50,49.19,One year,Fiber,3,0,No
+61,90.01,Month-to-month,Fiber,2,3,No
+31,46.36,Month-to-month,Fiber,1,1,No
+9,54.64,Two year,DSL,0,0,No
+62,111.09,Month-to-month,Fiber,2,0,No
+42,72.23,One year,No internet,0,0,No
+32,22.63,One year,DSL,1,1,No
+43,40.91,Month-to-month,DSL,2,1,No
+60,64.55,Month-to-month,Fiber,1,0,No
+1,120.1,Month-to-month,Fiber,0,2,Yes
+26,73.63,Two year,Fiber,5,1,No
+68,96.49,One year,Fiber,2,1,No
+22,30.99,Month-to-month,No internet,1,1,No
+71,31.02,Two year,DSL,1,2,No
+21,37.8,Month-to-month,Fiber,1,1,No
+34,42.74,Month-to-month,DSL,1,2,No
+6,101.34,Month-to-month,DSL,0,0,Yes
+53,60.15,One year,DSL,3,1,No
+18,96.09,Month-to-month,Fiber,2,1,Yes
+62,46.64,One year,Fiber,0,0,No
+10,68.5,Month-to-month,Fiber,0,0,Yes
+9,40.58,One year,No internet,0,2,No
+34,53.18,Two year,Fiber,1,1,No
+7,53.72,Month-to-month,DSL,1,0,No
+24,10.0,Month-to-month,No internet,2,0,No
+50,91.53,One year,Fiber,0,1,No
+37,,Month-to-month,Fiber,0,0,No
+41,88.67,Month-to-month,Fiber,1,1,No
+7,72.42,One year,DSL,1,1,Yes
+49,50.45,Month-to-month,DSL,0,1,No
+7,95.06,One year,Fiber,0,1,No
+42,63.2,Month-to-month,Fiber,2,1,No
+57,67.51,Month-to-month,DSL,0,1,No
+53,15.58,One year,DSL,2,0,No
+26,60.07,One year,Fiber,1,2,Yes
+12,101.32,Month-to-month,DSL,1,2,No
+60,87.22,Month-to-month,Fiber,0,1,No
+16,87.23,Month-to-month,Fiber,0,0,Yes
+36,58.52,Month-to-month,Fiber,4,0,No
+18,33.12,Two year,DSL,1,1,No
+3,49.71,Month-to-month,DSL,1,1,No
+30,53.66,One year,DSL,0,0,No
+40,,Month-to-month,Fiber,4,2,Yes
+55,95.38,Month-to-month,Fiber,5,1,No
+53,77.18,One year,Fiber,1,1,No
+60,76.31,One year,Fiber,2,2,No
+59,70.16,Month-to-month,DSL,2,1,No
+29,28.62,Month-to-month,DSL,0,0,No
+25,36.57,Month-to-month,Fiber,1,0,Yes
+44,89.87,Month-to-month,Fiber,2,2,No
+35,76.44,One year,Fiber,2,2,No
+22,28.76,Month-to-month,DSL,1,1,No
+3,33.1,Month-to-month,Fiber,3,1,Yes
+35,72.88,Month-to-month,DSL,1,0,Yes
+34,64.57,Two year,Fiber,1,0,No
+68,83.01,Month-to-month,Fiber,0,0,No
+59,69.72,One year,Fiber,2,0,No
+20,74.32,Month-to-month,Fiber,3,1,Yes
+8,43.15,Month-to-month,DSL,1,2,Yes
+57,73.47,Month-to-month,Fiber,2,2,Yes
+36,86.54,One year,Fiber,0,0,No
+4,69.49,Month-to-month,Fiber,1,0,No
+55,68.34,Two year,Fiber,0,1,No
+25,37.15,Month-to-month,No internet,1,2,Yes
+13,38.48,Two year,No internet,2,0,No
+48,52.25,Month-to-month,Fiber,1,1,Yes
+57,74.42,Month-to-month,Fiber,1,2,No
+56,44.52,One year,DSL,3,1,No
+20,55.27,Month-to-month,DSL,0,0,No
+43,,Month-to-month,DSL,3,0,No
+34,82.18,Two year,Fiber,1,0,No
+63,118.28,One year,Fiber,2,0,Yes
+14,79.39,Two year,Fiber,2,0,No
+60,71.67,Month-to-month,Fiber,0,0,No
+25,54.61,One year,DSL,2,0,No
+45,27.85,One year,No internet,0,3,No
+37,81.46,One year,Fiber,1,1,No
+26,35.16,One year,DSL,1,1,No
+17,70.34,One year,Fiber,1,1,No
+27,60.51,Two year,Fiber,1,0,No
+44,75.59,Month-to-month,DSL,0,0,No
+45,36.49,Month-to-month,Fiber,1,1,No
+45,28.14,Month-to-month,No internet,0,0,No
+48,10.0,Month-to-month,No internet,3,3,Yes
+4,83.64,One year,Fiber,3,2,No
+29,67.02,Month-to-month,Fiber,1,0,No
+23,38.66,Month-to-month,Fiber,1,1,No
+29,43.84,Two year,No internet,3,2,No
+28,24.67,Two year,Fiber,1,0,No
+13,54.37,Month-to-month,DSL,1,0,No
+70,88.82,Month-to-month,Fiber,0,1,No
+1,82.53,Month-to-month,DSL,2,1,Yes
+43,42.8,Month-to-month,Fiber,1,1,No
+34,44.68,Month-to-month,DSL,2,1,No
+51,76.67,Month-to-month,DSL,2,0,No
+60,98.02,One year,Fiber,1,0,No
+47,100.61,Month-to-month,Fiber,2,1,Yes
+56,106.23,Month-to-month,DSL,3,0,No
+20,44.83,One year,DSL,1,1,Yes
+72,62.45,Month-to-month,DSL,1,0,No
+7,68.08,Month-to-month,Fiber,5,0,Yes
+49,10.0,Month-to-month,No internet,1,0,No
+11,73.2,Month-to-month,Fiber,2,1,No
+17,10.0,Month-to-month,No internet,1,2,Yes
+60,14.58,Month-to-month,No internet,0,1,No
+49,25.64,Month-to-month,DSL,1,1,No
+46,33.78,Two year,No internet,2,0,No
+60,59.43,Two year,Fiber,0,1,No
+21,19.3,Month-to-month,DSL,1,2,No
+47,92.31,Two year,Fiber,2,2,No
+15,62.92,Month-to-month,Fiber,2,1,Yes
+35,46.36,Month-to-month,DSL,1,0,Yes
+30,10.0,Month-to-month,No internet,1,0,No
+45,47.98,Month-to-month,No internet,3,0,No
+5,60.41,Month-to-month,DSL,0,0,No
+2,12.74,Two year,No internet,2,1,No
+3,16.72,Month-to-month,DSL,1,4,Yes
+20,105.21,Month-to-month,DSL,3,0,Yes
+42,114.59,Month-to-month,Fiber,1,0,Yes
+12,83.86,Two year,DSL,0,0,No
+72,40.94,Month-to-month,DSL,0,0,No
+30,44.98,Two year,DSL,1,2,No
+22,63.01,Month-to-month,DSL,1,0,No
+65,37.12,One year,DSL,0,1,No
+13,10.0,Month-to-month,No internet,2,0,No
+14,84.17,Month-to-month,DSL,5,1,Yes
+28,53.9,Month-to-month,DSL,1,1,No
+6,32.6,Month-to-month,DSL,0,2,Yes
+50,74.05,Month-to-month,DSL,2,1,Yes
+56,43.52,Month-to-month,DSL,0,1,No
+26,10.0,One year,No internet,3,1,No
+63,32.3,One year,DSL,0,1,No
+1,44.67,Month-to-month,DSL,0,0,No
+39,79.4,One year,Fiber,2,1,Yes
+53,58.43,One year,DSL,1,2,No
+28,49.56,Two year,No internet,0,2,No
+69,20.26,Month-to-month,No internet,1,1,No
+31,15.69,Month-to-month,No internet,2,1,No
+67,79.9,Two year,DSL,1,0,No
+48,74.57,Two year,DSL,1,1,No
+17,70.73,Two year,Fiber,1,0,No
+60,60.84,One year,DSL,0,0,No
+3,65.49,One year,Fiber,4,1,Yes
+14,10.0,Two year,No internet,1,1,No
+57,118.94,Month-to-month,Fiber,2,3,No
+65,14.16,Month-to-month,No internet,1,1,No
+28,60.9,Two year,DSL,0,0,No
+48,44.69,Two year,Fiber,3,0,No
+51,69.73,Month-to-month,DSL,0,1,No
+54,30.88,Month-to-month,DSL,1,0,No
+66,88.56,Two year,DSL,1,0,No
+7,90.95,Month-to-month,DSL,1,0,No
+14,66.31,One year,DSL,0,1,No
+67,77.3,Month-to-month,Fiber,0,0,No
+40,21.25,Month-to-month,No internet,1,0,Yes
+39,24.05,One year,No internet,2,1,No
+30,63.18,Two year,DSL,0,1,No
+27,76.79,Month-to-month,Fiber,0,1,No
+18,74.63,Month-to-month,DSL,6,0,Yes
+29,56.63,Month-to-month,Fiber,3,2,Yes
+6,55.56,Month-to-month,No internet,3,4,Yes
+22,66.55,Two year,Fiber,1,0,No
+72,60.08,Month-to-month,Fiber,3,0,No
+12,82.25,Two year,Fiber,1,2,No
+53,63.53,Two year,DSL,4,0,No
+3,20.27,Month-to-month,DSL,2,0,No
+53,45.38,Month-to-month,DSL,0,1,No
+20,31.56,Two year,Fiber,1,1,No
+51,11.49,Month-to-month,No internet,2,1,No
+36,62.35,Two year,Fiber,0,1,No
+56,80.95,Month-to-month,Fiber,0,1,No
+49,39.24,Month-to-month,DSL,0,2,No
+41,,Month-to-month,DSL,2,0,No
+53,81.08,Month-to-month,DSL,3,2,No
+70,116.28,One year,Fiber,1,0,No
+43,36.58,One year,DSL,0,2,No
+13,95.39,Month-to-month,Fiber,1,1,Yes
+9,62.76,Month-to-month,DSL,2,0,Yes
+40,40.22,Month-to-month,Fiber,1,0,No
+32,39.18,Two year,DSL,2,1,No
+44,14.44,Two year,Fiber,1,1,Yes
+49,81.47,One year,Fiber,3,0,No
+14,53.46,Two year,Fiber,3,2,No
+54,57.68,Month-to-month,DSL,2,0,No
+72,126.42,Month-to-month,Fiber,1,3,No
+24,86.86,Month-to-month,DSL,0,2,No
+67,59.66,Two year,Fiber,1,0,No
+67,54.82,Month-to-month,Fiber,0,3,No
+31,80.86,Two year,DSL,2,2,No
+58,54.9,Month-to-month,Fiber,0,1,No
+68,74.82,Month-to-month,DSL,0,0,No
+62,109.72,Month-to-month,DSL,0,1,No
+28,68.51,One year,DSL,3,0,No
+48,78.68,Month-to-month,DSL,5,3,Yes
+43,96.36,Two year,Fiber,2,1,No
+30,63.86,One year,Fiber,2,0,No
+47,80.8,Month-to-month,Fiber,0,0,No
+68,10.0,One year,No internet,2,1,No
+2,100.8,Month-to-month,Fiber,2,0,No
+65,53.3,Two year,Fiber,1,2,Yes
+27,69.02,Month-to-month,DSL,1,2,No
+60,77.63,One year,DSL,1,1,No
+8,15.17,Month-to-month,No internet,0,0,No
+65,60.58,Month-to-month,Fiber,3,1,No
+33,21.61,One year,No internet,0,0,No
+66,37.15,Month-to-month,DSL,1,1,No
+31,58.13,One year,DSL,0,2,No
+54,56.66,Month-to-month,Fiber,1,1,No
+43,58.11,Month-to-month,Fiber,1,1,No
+15,85.94,Month-to-month,Fiber,0,0,No
+18,67.35,One year,DSL,1,2,No
+39,69.13,Month-to-month,Fiber,5,0,Yes
+36,42.07,Month-to-month,Fiber,1,1,No
+45,98.42,Month-to-month,Fiber,1,1,No
+59,16.03,Month-to-month,No internet,3,0,No
+56,116.25,One year,Fiber,1,0,No
+5,72.35,Two year,Fiber,1,0,No
+36,57.72,One year,DSL,0,2,No
+11,16.36,Month-to-month,No internet,3,0,No
+37,59.87,Month-to-month,DSL,3,0,No
+39,124.53,One year,DSL,0,1,No
+72,68.02,One year,Fiber,3,0,No
+28,100.53,Month-to-month,Fiber,1,3,Yes
+33,76.81,One year,Fiber,1,0,No
+37,98.48,Month-to-month,Fiber,2,0,No
+10,36.36,Month-to-month,Fiber,1,1,No
+5,93.9,Month-to-month,DSL,4,0,No
+52,81.82,Month-to-month,Fiber,2,1,No
+22,49.64,Month-to-month,DSL,0,1,No
+27,93.07,Month-to-month,Fiber,0,0,No
+72,27.88,Month-to-month,No internet,2,2,No
+18,32.04,Month-to-month,DSL,0,0,No
+66,26.53,Month-to-month,Fiber,2,1,No
+46,111.52,Month-to-month,Fiber,1,1,No
+20,20.54,Two year,No internet,0,1,No
+69,12.74,One year,No internet,0,1,No
+45,64.3,Month-to-month,Fiber,1,0,No
+23,104.29,Month-to-month,Fiber,0,1,No
+33,15.2,Month-to-month,No internet,0,1,No
+27,67.89,Month-to-month,DSL,2,1,No
+61,48.31,Month-to-month,DSL,1,0,No
+34,49.9,Month-to-month,Fiber,1,2,Yes
+3,73.03,Month-to-month,DSL,0,2,No
+50,77.06,One year,DSL,1,2,No
+55,41.41,Month-to-month,DSL,0,0,No
+29,54.24,Month-to-month,DSL,1,1,No
+67,76.94,Month-to-month,Fiber,0,1,No
+31,83.9,Two year,Fiber,1,0,No
+20,94.43,One year,DSL,1,1,No
+51,48.52,One year,DSL,1,2,Yes
+10,18.4,Two year,No internet,1,1,No
+71,51.49,Month-to-month,DSL,0,1,No
+50,56.16,Month-to-month,Fiber,3,1,Yes
+23,40.56,One year,Fiber,2,1,No
+6,57.68,Month-to-month,DSL,3,0,Yes
+43,85.55,One year,Fiber,5,1,No
+43,55.05,Month-to-month,DSL,3,0,No
+58,73.75,Month-to-month,Fiber,2,1,Yes
+21,57.03,Month-to-month,Fiber,3,1,Yes
+16,80.05,Month-to-month,Fiber,1,0,No
+30,58.4,One year,DSL,3,0,No
+59,84.5,Month-to-month,Fiber,1,0,No
+66,61.47,Month-to-month,DSL,2,1,No
+26,82.88,Month-to-month,Fiber,2,0,No
+4,51.38,Two year,No internet,3,0,No
+8,66.44,One year,DSL,2,1,No
+40,64.61,One year,DSL,0,1,No
+2,10.0,Month-to-month,No internet,0,2,No
+53,46.07,Month-to-month,No internet,2,2,No
+3,19.04,Month-to-month,No internet,2,1,Yes
+31,76.58,Month-to-month,Fiber,0,2,Yes
+58,49.54,Month-to-month,Fiber,0,0,No
+34,96.8,Two year,DSL,0,1,No
+49,10.0,Month-to-month,DSL,1,1,No
+25,84.76,Month-to-month,DSL,1,2,Yes
+58,63.5,Month-to-month,DSL,3,2,Yes
+31,36.89,Month-to-month,Fiber,1,0,No
+55,115.73,Month-to-month,Fiber,2,0,No
+69,65.28,One year,DSL,0,0,No
+28,10.0,Two year,DSL,2,1,No
+17,46.55,One year,DSL,2,1,No
+68,65.69,Two year,DSL,1,0,No
+50,109.26,Month-to-month,Fiber,0,1,No
+64,66.82,One year,Fiber,1,1,No
+28,22.06,Two year,Fiber,2,1,No
+26,104.18,Month-to-month,Fiber,3,1,Yes
+9,64.96,One year,DSL,2,0,No
+56,10.35,Two year,DSL,1,1,No
+61,31.85,One year,No internet,3,1,No
+60,63.97,Month-to-month,DSL,0,0,No
+21,68.51,Month-to-month,Fiber,1,0,No
+36,,One year,DSL,2,0,No
+36,62.81,Two year,Fiber,2,0,No
+9,68.49,Month-to-month,Fiber,2,0,Yes
+1,62.09,Month-to-month,DSL,2,0,No
+25,90.77,Month-to-month,Fiber,1,0,No
+37,32.04,Month-to-month,Fiber,1,0,No
+72,60.12,One year,DSL,0,2,No
+63,64.76,Month-to-month,DSL,2,0,No
+52,78.38,Month-to-month,Fiber,0,0,No
+70,46.9,One year,DSL,1,2,No
+56,103.4,Month-to-month,Fiber,1,0,No
+38,81.89,One year,DSL,1,0,No
+66,47.68,Month-to-month,DSL,1,0,No
+67,53.34,Month-to-month,DSL,2,0,No
+15,70.44,Two year,DSL,4,1,No
+21,100.65,Month-to-month,Fiber,3,0,Yes
+70,58.69,Month-to-month,Fiber,1,2,No
+1,34.08,Month-to-month,DSL,2,1,Yes
+38,80.48,One year,Fiber,0,0,No
+28,52.53,Month-to-month,Fiber,4,0,No
+54,16.1,Month-to-month,DSL,0,0,No
+69,58.59,Month-to-month,Fiber,0,0,No
+23,63.34,Two year,DSL,1,2,No
+16,86.07,One year,DSL,0,0,No
+24,40.82,Two year,DSL,0,0,No
+52,22.51,One year,No internet,1,0,No
+26,,Two year,DSL,2,1,No
+47,12.03,Month-to-month,No internet,0,1,No
+26,40.46,Month-to-month,DSL,2,1,Yes
+54,,Two year,DSL,3,0,No
+5,31.05,Two year,DSL,2,0,No
+25,39.65,Two year,DSL,2,1,No
+23,50.95,Two year,DSL,0,1,No
+44,31.45,One year,No internet,1,0,No
+47,24.7,Month-to-month,DSL,1,1,No
+53,22.38,One year,No internet,2,2,No
+65,49.18,Month-to-month,Fiber,0,1,No
+58,61.32,One year,Fiber,1,2,No
+3,90.77,Two year,Fiber,0,1,No
+49,53.52,One year,DSL,1,0,No
+2,108.38,Month-to-month,Fiber,0,0,Yes
+30,73.56,One year,Fiber,1,0,No
+43,94.36,Two year,Fiber,1,0,No
+23,70.9,Month-to-month,DSL,3,2,No
+51,74.74,Month-to-month,Fiber,1,0,No
+58,28.69,One year,DSL,1,2,No
+44,52.9,Two year,DSL,1,1,No
+38,44.34,One year,DSL,4,2,No
+71,43.57,One year,DSL,1,0,No
+47,78.12,Month-to-month,Fiber,1,2,No
+17,10.0,Month-to-month,No internet,1,2,Yes
+48,10.0,Two year,No internet,0,0,No
+35,54.76,Month-to-month,Fiber,1,1,Yes
+2,69.92,Month-to-month,Fiber,0,0,No
+66,39.64,Month-to-month,DSL,1,3,No
+58,10.95,Month-to-month,No internet,3,0,Yes
+45,57.71,Month-to-month,DSL,1,1,No
+49,16.09,One year,No internet,2,1,No
+42,25.1,Month-to-month,No internet,1,1,No
+25,32.69,One year,DSL,3,0,No
+68,58.43,Month-to-month,Fiber,1,2,No
+40,115.82,Two year,Fiber,2,0,No
+25,61.05,Month-to-month,Fiber,1,2,No
+50,32.87,Month-to-month,Fiber,1,2,No
+12,81.84,Month-to-month,Fiber,0,1,No
+24,40.84,Two year,DSL,2,1,No
+10,59.88,One year,DSL,0,2,No
+7,73.21,One year,Fiber,0,1,No
+60,66.0,Month-to-month,DSL,3,0,No
+32,23.01,Month-to-month,No internet,0,4,No
+62,70.47,Two year,Fiber,0,1,No
+46,97.96,Month-to-month,Fiber,1,1,No
+17,10.64,One year,DSL,1,0,No
+16,10.0,Two year,No internet,4,1,No
+33,38.5,One year,DSL,1,1,No
+7,41.14,Month-to-month,Fiber,0,1,No
+43,45.41,Month-to-month,DSL,0,2,No
+34,43.44,Month-to-month,DSL,3,1,Yes
+11,94.49,Two year,Fiber,0,0,No
+38,53.23,Two year,DSL,1,1,Yes
+62,50.74,Month-to-month,DSL,0,0,No
+66,67.4,Two year,Fiber,0,1,No
+31,10.0,Month-to-month,No internet,3,1,Yes
+6,92.82,Month-to-month,Fiber,3,0,Yes
+63,79.2,Month-to-month,DSL,0,0,No
+40,,Two year,DSL,0,0,No
+55,107.4,Month-to-month,Fiber,1,1,Yes
+4,41.58,Month-to-month,DSL,1,1,No
+22,59.95,Month-to-month,Fiber,4,0,No
+21,,Month-to-month,Fiber,0,1,No
+52,86.24,Month-to-month,Fiber,2,1,No
+50,23.57,Month-to-month,No internet,2,0,No
+54,18.07,Two year,No internet,2,2,No
+29,98.45,Two year,Fiber,1,1,No
+23,42.53,Month-to-month,DSL,2,1,No
+14,23.62,Two year,No internet,3,0,No
+19,88.88,Two year,DSL,0,0,No
+12,48.26,Two year,Fiber,1,1,No
+60,65.83,Month-to-month,Fiber,0,1,No
+49,95.5,Two year,Fiber,0,4,No
+49,85.56,One year,Fiber,1,1,No
+64,72.88,Month-to-month,DSL,1,2,Yes
+54,28.54,One year,DSL,0,1,No
+24,61.42,Month-to-month,DSL,1,0,Yes
+23,69.3,One year,Fiber,0,0,No
+10,100.45,One year,DSL,0,0,No
+52,71.19,Month-to-month,DSL,0,1,No
+63,54.55,Month-to-month,DSL,1,4,Yes
+52,80.72,Two year,Fiber,1,1,No
+34,76.09,Month-to-month,Fiber,1,0,No
+24,88.98,Two year,Fiber,3,0,No
+32,57.87,One year,Fiber,0,0,No
+20,82.3,Month-to-month,DSL,1,0,No
+12,28.51,Month-to-month,DSL,2,0,No
+32,79.1,Two year,Fiber,4,1,No
+18,38.51,Two year,DSL,2,5,Yes
+54,55.86,Month-to-month,DSL,3,1,No
+66,74.76,Month-to-month,DSL,1,0,No
+14,20.75,Month-to-month,DSL,2,0,No
+1,21.61,One year,No internet,2,2,Yes
+63,26.2,Month-to-month,DSL,2,1,No
+22,69.41,Month-to-month,Fiber,1,1,No
+19,26.15,Month-to-month,DSL,1,2,No
+62,78.24,Two year,Fiber,0,1,No
+61,46.48,Month-to-month,DSL,2,1,No
+42,39.94,One year,No internet,1,0,No
+12,99.57,Month-to-month,Fiber,1,0,Yes
+51,75.21,One year,Fiber,0,2,No
+54,92.87,One year,Fiber,0,0,No
+32,52.65,Two year,No internet,2,0,No
+41,56.56,One year,Fiber,0,1,No
+39,83.7,Month-to-month,DSL,2,0,No
+48,74.26,Month-to-month,Fiber,0,1,No
+38,55.43,Month-to-month,Fiber,3,1,Yes
+71,80.97,Month-to-month,Fiber,0,4,No
+3,53.56,Two year,DSL,0,1,No
+4,46.86,Month-to-month,Fiber,3,0,No
+11,10.0,Two year,No internet,0,2,No
+11,87.75,Month-to-month,DSL,1,2,Yes
+36,30.57,Two year,No internet,0,2,No
+6,104.64,Two year,Fiber,1,1,No
+14,46.67,One year,DSL,1,1,No
+38,58.97,Month-to-month,Fiber,2,3,No
+65,21.33,Two year,DSL,2,1,No
+58,74.36,Two year,DSL,0,1,No
+16,83.21,Month-to-month,Fiber,2,0,Yes
+4,16.85,Two year,No internet,2,0,No
+54,59.15,Two year,Fiber,1,1,No
+57,97.54,Month-to-month,Fiber,3,2,Yes
+67,51.45,Month-to-month,DSL,0,2,No
+32,51.67,Month-to-month,DSL,1,0,No
+5,62.98,Month-to-month,Fiber,0,2,No
+68,16.85,Two year,No internet,0,2,No
+21,86.0,Two year,Fiber,3,1,No
+28,26.67,Month-to-month,DSL,2,0,No
+30,76.61,One year,Fiber,2,1,No
+71,94.11,Month-to-month,Fiber,3,1,Yes
+27,53.3,Month-to-month,DSL,2,1,No
+41,76.08,One year,DSL,4,1,No
+37,81.81,One year,DSL,2,0,No
+72,93.07,Month-to-month,Fiber,1,1,No
+69,64.25,Month-to-month,Fiber,4,0,No
+46,24.29,Two year,No internet,3,0,No
+8,81.92,Month-to-month,Fiber,1,1,No
+25,45.61,Month-to-month,DSL,1,1,No
+48,64.94,Two year,Fiber,1,0,No
+58,63.73,Two year,Fiber,2,0,No
+55,125.87,One year,Fiber,0,0,No
+36,69.58,Month-to-month,Fiber,1,1,No
+49,76.37,One year,DSL,3,2,Yes
+23,57.61,One year,Fiber,2,0,No
+46,89.04,Month-to-month,DSL,1,2,No
+35,67.43,Month-to-month,Fiber,1,2,Yes
+50,76.06,Month-to-month,Fiber,1,1,No
+63,38.35,Month-to-month,Fiber,2,2,No
+60,97.33,Two year,Fiber,0,1,No
+53,101.66,One year,Fiber,1,1,No
+56,51.25,Month-to-month,Fiber,3,1,No
+13,98.5,Month-to-month,Fiber,1,2,Yes
+14,48.25,Month-to-month,Fiber,1,1,Yes
+61,87.64,Month-to-month,Fiber,1,0,Yes
+39,69.24,Month-to-month,Fiber,3,0,No
+32,101.73,Two year,Fiber,3,0,No
+48,79.98,Two year,Fiber,1,2,Yes
+6,93.63,Two year,Fiber,1,0,No
+12,79.76,Month-to-month,DSL,1,0,No
+11,69.18,Two year,Fiber,1,0,No
